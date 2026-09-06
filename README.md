@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://orcid.org/0000-0002-0118-9410"><img src="https://img.shields.io/badge/ORCID-0000--0002--0118--9410-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="mailto:mariofahmiunirow@gmail.com"><img src="https://img.shields.io/badge/Email-mariofahmiunirow%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mariofahmi&label=Profile%20Views&color=E9711C&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -40,6 +41,14 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 | 🎓 **[Siapa yang Ingin Menjadi Mahaguru](https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/)** | An educational quiz game with 15 academic-tier levels exploring the history of teachers, PGRI's transformation, and the AI revolution. | Aug 30, 2026 |
 | 🐍 **[PyDuel: Battle of Algorithms](https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/)** | An educational Python and algorithms game for university students — speed-duel against PyBot AI or try the 3-life Survival Run mode. | Sep 5, 2026 |
 | 🏛️ **[CivicQUEST](https://mariofahmi.github.io/CivicQUEST/)** | A PPKn education game featuring a Survival Quiz, an RPG-style Ethics Dilemma mode, a 7-zone Boss Battle, and a Pancasila Village Simulation. | Sep 6, 2026 |
+
+---
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariofahmi&theme=radical&hide_border=true&area=true" alt="Mario's contribution graph" width="100%"/>
+</p>
 
 ---
 
