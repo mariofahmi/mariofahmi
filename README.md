@@ -30,21 +30,23 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🛰️ **[WebGIS Pesisir Tuban](https://mariofahmi.github.io/webgis-pesisir-tuban/)** | An interactive coastal mapping portal built with Leaflet & Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban. |
-| 🎲 **[BOGA SERI](https://mariofahmi.github.io/bogaseri/)** | An interactive web-based board game teaching Indonesian traffic safety, based on Law No. 22/2009 on Traffic and Road Transportation. |
-| 🐍 **[PyDuel: Battle of Algorithms](https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/)** | An educational Python and algorithms game for university students — speed-duel against PyBot AI or try the 3-life Survival Run mode. |
-| ⚖️ **[Peradilan Semu (Moot Court Simulation)](https://mariofahmi.github.io/Simulasi-Peradilan-Semu-PPKn-/)** | An interactive moot court simulation for PPKn UNIROW Tuban students, featuring 4 real trial cases and a 50-question exam bank. |
-| 🐍🪜 **[Ular Tangga PIS (Snakes & Ladders)](https://mariofahmi.github.io/Ular-Tangga-PIS/)** | An educational Snakes & Ladders game for Introduction to Social Sciences, with a 10x10 board and interactive quiz ladders. |
-| 👑 **[Siapa Ingin Menjadi Kaisar IPS](https://mariofahmi.github.io/SIAPA-INGIN-MENJADI-KAISAR-IPS/)** | A "Who Wants to Be a Millionaire"-style quiz game on basic Social Studies (IPS) concepts, with 15 levels and 3 lifelines. |
-| 🎓 **[Siapa yang Ingin Menjadi Mahaguru](https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/)** | An educational quiz game with 15 academic-tier levels exploring the history of teachers, PGRI's transformation, and the AI revolution. |
+| Project | Description | Rilis |
+|---|---|---|
+| 🛰️ **[WebGIS Pesisir Tuban](https://mariofahmi.github.io/webgis-pesisir-tuban/)** | An interactive coastal mapping portal built with Leaflet & Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban. | Aug 10, 2026 |
+| 🎲 **[BOGA SERI](https://mariofahmi.github.io/bogaseri/)** | An interactive web-based board game teaching Indonesian traffic safety, based on Law No. 22/2009 on Traffic and Road Transportation. | Aug 12, 2026 |
+| 🐍🪜 **[Ular Tangga PIS (Snakes & Ladders)](https://mariofahmi.github.io/Ular-Tangga-PIS/)** | An educational Snakes & Ladders game for Introduction to Social Sciences, with a 100-square board and interactive quiz ladders. | Aug 23, 2026 |
+| 👑 **[Siapa Ingin Menjadi Kaisar IPS](https://mariofahmi.github.io/SIAPA-INGIN-MENJADI-KAISAR-IPS/)** | A "Who Wants to Be a Millionaire"-style quiz game on Social Studies (IPS): climb 15 levels from Commoner to Emperor across 120 random questions, with 3 lifelines. | Aug 28, 2026 |
+| ⚖️ **[Peradilan Semu (Moot Court Simulation)](https://mariofahmi.github.io/Simulasi-Peradilan-Semu-PPKn-/)** | An interactive moot court simulation for PPKn UNIROW Tuban students, featuring 4 real trial cases (corruption, domestic violence, ITE Law, land disputes) and a 50-question exam bank. | Aug 29, 2026 |
+| 🎓 **[Siapa yang Ingin Menjadi Mahaguru](https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/)** | An educational quiz game with 15 academic-tier levels exploring the history of teachers, PGRI's transformation, and the AI revolution. | Aug 30, 2026 |
+| 🐍 **[PyDuel: Battle of Algorithms](https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/)** | An educational Python and algorithms game for university students — speed-duel against PyBot AI or try the 3-life Survival Run mode. | Sep 5, 2026 |
+| 🏛️ **[CivicQUEST](https://mariofahmi.github.io/CivicQUEST/)** | A PPKn education game featuring a Survival Quiz, an RPG-style Ethics Dilemma mode, a 7-zone Boss Battle, and a Pancasila Village Simulation. | Sep 6, 2026 |
 
 ---
 
 ### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
