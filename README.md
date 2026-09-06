@@ -29,18 +29,25 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 
 ---
 
-### 🚀 Featured Projects
+### 🎮 Game Projects
 
 | Project | Description | Release |
 |---|---|---|
-| 🛰️ **[WebGIS Pesisir Tuban](https://mariofahmi.github.io/webgis-pesisir-tuban/)** | An interactive coastal mapping portal built with Leaflet & Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban. | Aug 10, 2026 |
-| 🎲 **[BOGA SERI](https://mariofahmi.github.io/bogaseri/)** | An interactive web-based board game teaching Indonesian traffic safety, based on Law No. 22/2009 on Traffic and Road Transportation. | Aug 12, 2026 |
-| 🐍🪜 **[Ular Tangga PIS (Snakes & Ladders)](https://mariofahmi.github.io/Ular-Tangga-PIS/)** | An educational Snakes & Ladders game for Introduction to Social Sciences, with a 100-square board and interactive quiz ladders. | Aug 23, 2026 |
-| 👑 **[Siapa Ingin Menjadi Kaisar IPS](https://mariofahmi.github.io/SIAPA-INGIN-MENJADI-KAISAR-IPS/)** | A "Who Wants to Be a Millionaire"-style quiz game on Social Studies (IPS): climb 15 levels from Commoner to Emperor across 120 random questions, with 3 lifelines. | Aug 28, 2026 |
-| ⚖️ **[Peradilan Semu (Moot Court Simulation)](https://mariofahmi.github.io/Simulasi-Peradilan-Semu-PPKn-/)** | An interactive moot court simulation for PPKn UNIROW Tuban students, featuring 4 real trial cases (corruption, domestic violence, ITE Law, land disputes) and a 50-question exam bank. | Aug 29, 2026 |
-| 🎓 **[Siapa yang Ingin Menjadi Mahaguru](https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/)** | An educational quiz game with 15 academic-tier levels exploring the history of teachers, PGRI's transformation, and the AI revolution. | Aug 30, 2026 |
-| 🐍 **[PyDuel: Battle of Algorithms](https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/)** | An educational Python and algorithms game for university students — speed-duel against PyBot AI or try the 3-life Survival Run mode. | Sep 5, 2026 |
-| 🏛️ **[CivicQUEST](https://mariofahmi.github.io/CivicQUEST/)** | A PPKn education game featuring a Survival Quiz, an RPG-style Ethics Dilemma mode, a 7-zone Boss Battle, and a Pancasila Village Simulation. | Sep 6, 2026 |
+| 🎲 **[BOGA SERI](https://mariofahmi.github.io/bogaseri/)** | An interactive web-based board game teaching Indonesian traffic safety, based on Law No. 22/2009 on Traffic and Road Transportation. | 2026-08-12 |
+| 🐍🪜 **[Ular Tangga PIS (Snakes & Ladders)](https://mariofahmi.github.io/Ular-Tangga-PIS/)** | An educational Snakes & Ladders game for Introduction to Social Sciences, with a 100-square board and interactive quiz ladders. | 2026-08-23 |
+| 👑 **[Siapa Ingin Menjadi Kaisar IPS](https://mariofahmi.github.io/SIAPA-INGIN-MENJADI-KAISAR-IPS/)** | A "Who Wants to Be a Millionaire"-style quiz game on Social Studies (IPS): climb 15 levels from Commoner to Emperor across 120 random questions, with 3 lifelines. | 2026-08-28 |
+| ⚖️ **[Peradilan Semu (Moot Court Simulation)](https://mariofahmi.github.io/Simulasi-Peradilan-Semu-PPKn-/)** | An interactive moot court simulation for PPKn UNIROW Tuban students, featuring 4 real trial cases (corruption, domestic violence, ITE Law, land disputes) and a 50-question exam bank. | 2026-08-29 |
+| 🎓 **[Siapa yang Ingin Menjadi Mahaguru](https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/)** | An educational quiz game with 15 academic-tier levels exploring the history of teachers, PGRI's transformation, and the AI revolution. | 2026-08-30 |
+| 🐍 **[PyDuel: Battle of Algorithms](https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/)** | An educational Python and algorithms game for university students — speed-duel against PyBot AI or try the 3-life Survival Run mode. | 2026-09-05 |
+| 🏛️ **[CivicQUEST](https://mariofahmi.github.io/CivicQUEST/)** | A PPKn education game featuring a Survival Quiz, an RPG-style Ethics Dilemma mode, a 7-zone Boss Battle, and a Pancasila Village Simulation. | 2026-09-06 |
+
+---
+
+### 📚 Education Projects
+
+| Project | Description | Release |
+|---|---|---|
+| 🛰️ **[WebGIS Pesisir Tuban](https://mariofahmi.github.io/webgis-pesisir-tuban/)** | An interactive coastal mapping portal built with Leaflet & Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban. | 2026-08-10 |
 
 ---
 
