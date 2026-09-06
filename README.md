@@ -47,7 +47,7 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 ### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariofahmi&theme=radical&hide_border=true&area=true" alt="Mario's contribution graph" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=mariofahmi&theme=radical&hide_border=true" alt="Mario's GitHub streak stats"/>
 </p>
 
 ---
