@@ -30,7 +30,7 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 
 ### 🚀 Featured Projects
 
-| Project | Description | Rilis |
+| Project | Description | Release |
 |---|---|---|
 | 🛰️ **[WebGIS Pesisir Tuban](https://mariofahmi.github.io/webgis-pesisir-tuban/)** | An interactive coastal mapping portal built with Leaflet & Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban. | Aug 10, 2026 |
 | 🎲 **[BOGA SERI](https://mariofahmi.github.io/bogaseri/)** | An interactive web-based board game teaching Indonesian traffic safety, based on Law No. 22/2009 on Traffic and Road Transportation. | Aug 12, 2026 |
