@@ -50,6 +50,8 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
   <img src="https://streak-stats.demolab.com/?user=mariofahmi&theme=radical&hide_border=true" alt="Mario's GitHub streak stats"/>
 </p>
 
+<p align="center"><sub>📈 Total contributions, current streak, and longest streak on GitHub — updated automatically every day.</sub></p>
+
 ---
 
 ### 🛠️ Tech Stack
