@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mario Fahmi Syahrial 👋</h1>
-<h3 align="center">Lecturer · Researcher · Interactive Learning Media Developer</h3>
+<h3 align="center">Lecturer · Researcher</h3>
 
 <p align="center">
   📍 Tuban, East Java &nbsp;•&nbsp;
@@ -12,13 +12,19 @@
   <a href="mailto:mariofahmiunirow@gmail.com"><img src="https://img.shields.io/badge/Email-mariofahmiunirow%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center">
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60117161600"><img src="https://img.shields.io/badge/Scopus-60117161600-E9711C?style=flat&logo=scopus&logoColor=white" alt="Scopus ID"/></a>
+  <a href="https://scholar.google.com/citations?hl=id&user=n5hSjcEAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://sinta.kemdiktisaintek.go.id/authors/profile/6095725"><img src="https://img.shields.io/badge/SINTA-6095725-003A70?style=flat&logoColor=white" alt="SINTA ID"/></a>
+</p>
+
 ---
 
 ### 👋 About Me
 
 > "Make reading a habit..."
 
-I build interactive web-based learning media — from educational games and simulations to WebGIS applications — to support teaching and learning in **Civic Education (PPKn), Social Studies (IPS), and Social Sciences** at UNIROW Tuban.
+Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Education (PPKn) at Universitas PGRI Ronggolawe (UNIROW) Tuban since 2015. He completed his Bachelor's degree in Sociology and Anthropology Education (2010) and his Master's degree in Social Studies Education (2015) from Universitas Negeri Semarang (UNNES). He has published dozens of scientific works, including Sinta-indexed and Scopus-indexed publications, as well as several monograph and reference books.
 
 ---
 
