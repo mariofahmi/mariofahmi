@@ -3,6 +3,7 @@
 
 <p align="center">
   📍 Tuban, East Java &nbsp;•&nbsp;
+<p align="center">
   🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban &nbsp;•&nbsp;
 
 </p>
