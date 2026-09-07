@@ -3,10 +3,9 @@
 
 <p align="center">
   📍 Tuban, East Java &nbsp;•&nbsp;
+  🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban
 
-  🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban &nbsp;•&nbsp;
 
-</p>
 
 <p align="center">
   <a href="https://orcid.org/0000-0002-0118-9410"><img src="https://img.shields.io/badge/ORCID-0000--0002--0118--9410-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
