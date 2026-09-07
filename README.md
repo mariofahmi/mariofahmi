@@ -2,8 +2,8 @@
 <h3 align="center">Lecturer · Researcher</h3>
 
 <p align="center">
- 🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban &nbsp;•&nbsp;
-  📍 Tuban, East Java
+ 🎓 Universitas PGRI Ronggolawe (UNIROW) East Java Tuban &nbsp;&nbsp;
+
  
 
 
