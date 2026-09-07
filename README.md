@@ -4,7 +4,7 @@
 <p align="center">
   📍 Tuban, East Java &nbsp;•&nbsp;
   🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban &nbsp;•&nbsp;
-  ✉️ mariofahmiunirow@gmail.com
+
 </p>
 
 <p align="center">
