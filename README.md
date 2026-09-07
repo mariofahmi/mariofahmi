@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Mario Fahmi Syahrial 👋</h1>
+<h1 align="center">Hi, I'm Mario Fahmi Syahrial </h1>
 <h3 align="center">Lecturer · Researcher</h3>
 
 <p align="center">
- 🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban East Java  &nbsp;&nbsp;
+ 🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban East Java Indonesia &nbsp;&nbsp;
 
  
 
