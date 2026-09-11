@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://orcid.org/0000-0002-0118-9410"><img src="https://img.shields.io/badge/ORCID-0000--0002--0118--9410-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="mailto:mariofahmiunirow@gmail.com"><img src="https://img.shields.io/badge/Email-mariofahmiunirow%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mariofahmi&label=Profile%20Views&color=E9711C&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -66,6 +65,10 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariofahmi&theme=radical" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mariofahmi&label=Profile%20Views&color=E9711C&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <p align="center"><sub>📈 Stats diperbarui otomatis setiap hari.</sub></p>
