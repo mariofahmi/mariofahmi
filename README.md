@@ -47,7 +47,7 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 | Project | Description | Release |
 |---|---|---|
 | 🛰️ **[WebGIS Pesisir Tuban](https://mariofahmi.github.io/webgis-pesisir-tuban/)** | An interactive coastal mapping portal built with Leaflet & Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban. | 2026-08-10 |
-| 🗓️ **[Titen Laku Jawa](https://mariofahmi.github.io/Titen-Laku-Jawa/)** | A comprehensive Javanese calendar & primbon web app — calculates Weton, Wuku, Pawukon cycle, and generates a personal Birth Chart (Piagam) based on traditional Javanese time-reckoning. | 2026-09-11 |
+| 🗓️ **[Titen Laku Jawa](https://mariofahmi.github.io/Titen-Laku-Jawa/)** | A modern, precise, and comprehensive application for calculating traditional Javanese time cycles, grounded in the ancient science of Javanese Titen Laku. Designed by Mario Fahmi Syahrial | 2026-09-11 |
 
 ---
 
