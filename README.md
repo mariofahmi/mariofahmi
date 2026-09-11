@@ -55,17 +55,17 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 ### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariofahmi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Mario's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariofahmi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Mario's GitHub stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofahmi&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofahmi&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mariofahmi&theme=radical&hide_border=true" alt="Mario's GitHub streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariofahmi&theme=radical&hide_border=true" alt="Mario's GitHub streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariofahmi&theme=redical&hide_border=true&area=true" alt="Mario's contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariofahmi&theme=radical&hide_border=true&area=true" alt="Mario's contribution graph"/>
 </p>
 
 <p align="center"><sub>📈 Stats diperbarui otomatis setiap hari.</sub></p>
