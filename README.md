@@ -1,11 +1,11 @@
-<h1 align="center">Mario Fahmi Syahrial </h1>
+<h1 align="center">Hi, I'm Mario Fahmi Syahrial 👋</h1>
 <h3 align="center">Lecturer · Researcher</h3>
 
 <p align="center">
- 🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban East Java Indonesia &nbsp;&nbsp;
-
- 
-
+  📍 Tuban, East Java &nbsp;•&nbsp;
+  🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban &nbsp;•&nbsp;
+  ✉️ mariofahmiunirow@gmail.com
+</p>
 
 <p align="center">
   <a href="https://orcid.org/0000-0002-0118-9410"><img src="https://img.shields.io/badge/ORCID-0000--0002--0118--9410-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
@@ -48,6 +48,7 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 | Project | Description | Release |
 |---|---|---|
 | 🛰️ **[WebGIS Pesisir Tuban](https://mariofahmi.github.io/webgis-pesisir-tuban/)** | An interactive coastal mapping portal built with Leaflet & Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban. | 2026-08-10 |
+| 🗓️ **[Titen Laku Jawa](https://mariofahmi.github.io/Titen-Laku-Jawa/)** | A comprehensive Javanese calendar & primbon web app — calculates Weton, Wuku, Pawukon cycle, and generates a personal Birth Chart (Piagam) based on traditional Javanese time-reckoning. | 2026-09-11 |
 
 ---
 
@@ -65,6 +66,8 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
