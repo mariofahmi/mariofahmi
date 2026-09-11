@@ -30,24 +30,78 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 
 ### 🎮 Game Projects
 
-| Project | Description | Release |
-|---|---|---|
-| 🎲 **[BOGA SERI](https://mariofahmi.github.io/bogaseri/)** | An interactive web-based board game teaching Indonesian traffic safety, based on Law No. 22/2009 on Traffic and Road Transportation. | 2026-08-12 |
-| 🐍🪜 **[Ular Tangga PIS (Snakes & Ladders)](https://mariofahmi.github.io/Ular-Tangga-PIS/)** | An educational Snakes & Ladders game for Introduction to Social Sciences, with a 100-square board and interactive quiz ladders. | 2026-08-23 |
-| 👑 **[Siapa Ingin Menjadi Kaisar IPS](https://mariofahmi.github.io/SIAPA-INGIN-MENJADI-KAISAR-IPS/)** | A "Who Wants to Be a Millionaire"-style quiz game on Social Studies (IPS): climb 15 levels from Commoner to Emperor across 120 random questions, with 3 lifelines. | 2026-08-28 |
-| ⚖️ **[Peradilan Semu (Moot Court Simulation)](https://mariofahmi.github.io/Simulasi-Peradilan-Semu-PPKn-/)** | An interactive moot court simulation for PPKn UNIROW Tuban students, featuring 4 real trial cases (corruption, domestic violence, ITE Law, land disputes) and a 50-question exam bank. | 2026-08-29 |
-| 🎓 **[Siapa yang Ingin Menjadi Mahaguru](https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/)** | An educational quiz game with 15 academic-tier levels exploring the history of teachers, PGRI's transformation, and the AI revolution. | 2026-08-30 |
-| 🐍 **[PyDuel: Battle of Algorithms](https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/)** | An educational Python and algorithms game for university students — speed-duel against PyBot AI or try the 3-life Survival Run mode. | 2026-09-05 |
-| 🏛️ **[CivicQUEST](https://mariofahmi.github.io/CivicQUEST/)** | A PPKn education game featuring a Survival Quiz, an RPG-style Ethics Dilemma mode, a 7-zone Boss Battle, and a Pancasila Village Simulation. | 2026-09-06 |
+<table>
+  <thead>
+    <tr>
+      <th width="28%" align="left">Project</th>
+      <th width="58%" align="left">Description</th>
+      <th width="14%" align="center">Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎲 <a href="https://mariofahmi.github.io/bogaseri/"><b>BOGA SERI</b></a></td>
+      <td>An interactive web-based board game teaching Indonesian traffic safety, based on Law No. 22/2009 on Traffic and Road Transportation.</td>
+      <td align="center"><nobr>2026-08-12</nobr></td>
+    </tr>
+    <tr>
+      <td>🐍🪜 <a href="https://mariofahmi.github.io/Ular-Tangga-PIS/"><b>Ular Tangga PIS (Snakes &amp; Ladders)</b></a></td>
+      <td>An educational Snakes &amp; Ladders game for Introduction to Social Sciences, with a 100-square board and interactive quiz ladders.</td>
+      <td align="center"><nobr>2026-08-23</nobr></td>
+    </tr>
+    <tr>
+      <td>👑 <a href="https://mariofahmi.github.io/SIAPA-INGIN-MENJADI-KAISAR-IPS/"><b>Siapa Ingin Menjadi Kaisar IPS</b></a></td>
+      <td>A "Who Wants to Be a Millionaire"-style quiz game on Social Studies (IPS): climb 15 levels from Commoner to Emperor across 120 random questions, with 3 lifelines.</td>
+      <td align="center"><nobr>2026-08-28</nobr></td>
+    </tr>
+    <tr>
+      <td>⚖️ <a href="https://mariofahmi.github.io/Simulasi-Peradilan-Semu-PPKn-/"><b>Peradilan Semu (Moot Court Simulation)</b></a></td>
+      <td>An interactive moot court simulation for PPKn UNIROW Tuban students, featuring 4 real trial cases (corruption, domestic violence, ITE Law, land disputes) and a 50-question exam bank.</td>
+      <td align="center"><nobr>2026-08-29</nobr></td>
+    </tr>
+    <tr>
+      <td>🎓 <a href="https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/"><b>Siapa yang Ingin Menjadi Mahaguru</b></a></td>
+      <td>An educational quiz game with 15 academic-tier levels exploring the history of teachers, PGRI's transformation, and the AI revolution.</td>
+      <td align="center"><nobr>2026-08-30</nobr></td>
+    </tr>
+    <tr>
+      <td>🐍 <a href="https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/"><b>PyDuel: Battle of Algorithms</b></a></td>
+      <td>An educational Python and algorithms game for university students — speed-duel against PyBot AI or try the 3-life Survival Run mode.</td>
+      <td align="center"><nobr>2026-09-05</nobr></td>
+    </tr>
+    <tr>
+      <td>🏛️ <a href="https://mariofahmi.github.io/CivicQUEST/"><b>CivicQUEST</b></a></td>
+      <td>A PPKn education game featuring a Survival Quiz, an RPG-style Ethics Dilemma mode, a 7-zone Boss Battle, and a Pancasila Village Simulation.</td>
+      <td align="center"><nobr>2026-09-06</nobr></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### 📚 Education Projects
 
-| Project | Description | Release |
-|---|---|---|
-| 🛰️ **[WebGIS Pesisir Tuban](https://mariofahmi.github.io/webgis-pesisir-tuban/)** | An interactive coastal mapping portal built with Leaflet & Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban. | 2026-08-10 |
-| 🗓️ **[Titen Laku Jawa](https://mariofahmi.github.io/Titen-Laku-Jawa/)** | A modern, precise, and comprehensive application for calculating traditional Javanese time cycles, grounded in the ancient science of Javanese Titen Laku. Designed by Mario Fahmi Syahrial | 2026-09-11 |
+<table>
+  <thead>
+    <tr>
+      <th width="28%" align="left">Project</th>
+      <th width="58%" align="left">Description</th>
+      <th width="14%" align="center">Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🛰️ <a href="https://mariofahmi.github.io/webgis-pesisir-tuban/"><b>WebGIS Pesisir Tuban</b></a></td>
+      <td>An interactive coastal mapping portal built with Leaflet &amp; Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban.</td>
+      <td align="center"><nobr>2026-08-10</nobr></td>
+    </tr>
+    <tr>
+      <td>🗓️ <a href="https://mariofahmi.github.io/Titen-Laku-Jawa/"><b>Titen Laku Jawa</b></a></td>
+      <td>A modern, precise, and comprehensive application for calculating traditional Javanese time cycles, grounded in the ancient science of Javanese Titen Laku. Designed by Mario Fahmi Syahrial</td>
+      <td align="center"><nobr>2026-09-11</nobr></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
