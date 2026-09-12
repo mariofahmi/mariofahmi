@@ -122,7 +122,7 @@ Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Educatio
 </p>
 
 <p align="center">
-  <img src="./assets/traffic-chart.svg" alt="Daily Profile Views Chart"/>
+
 </p>
 
 <p align="center">
