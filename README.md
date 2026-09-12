@@ -24,8 +24,6 @@
 
 > "Make reading a habit..."
 
-Mario Fahmi Syahrial, S.Pd., M.Pd. is a lecturer in Pancasila and Civic Education (PPKn) at Universitas PGRI Ronggolawe (UNIROW) Tuban since 2015. He completed his Bachelor's degree in Sociology and Anthropology Education (2010) and his Master's degree in Social Studies Education (2015) from Universitas Negeri Semarang (UNNES). He has published dozens of scientific works, including Sinta-indexed and Scopus-indexed publications, as well as several monograph and reference books.
-
 ---
 
 ### 🎮 Game Projects
