@@ -21,7 +21,7 @@
 
 ### 👋 About Me
 
-> "Make reading a habit..."
+> "Data is read, not heard..."
 
 ---
 
