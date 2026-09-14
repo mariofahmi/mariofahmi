@@ -71,6 +71,11 @@
       <td>A PPKn education game featuring a Survival Quiz, an RPG-style Ethics Dilemma mode, a 7-zone Boss Battle, and a Pancasila Village Simulation.</td>
       <td align="center"><nobr>2026-09-06</nobr></td>
     </tr>
+    <tr>
+      <td>🌱🦸 <a href="https://mariofahmi.github.io/Pahlawan-Cilik-Siaga-Lingkungan/"><b>Pahlawan Cilik Siaga Lingkungan</b></a></td>
+      <td>An educational gamification web app for children's 3R awareness and school waste management, featuring 4-bin waste sorting, a mini bank sampah passbook simulation, Takakura composting, and a 3R daily habit checklist.</td>
+      <td align="center"><nobr>2026-09-14</nobr></td>
+    </tr>
   </tbody>
 </table>
 
