@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Lecturer+%C2%B7+Researcher+%C2%B7+EdTech+Creator;Universitas+PGRI+Ronggolawe+(UNIROW)+Tuban;Civic+Education+%C2%B7+Social+Sciences+%C2%B7+Interactive+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=19&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Lecturer+%26+Researcher;Universitas+PGRI+Ronggolawe+(UNIROW)+Tuban;Developing+gamification-based+educational+web+applications;board+games+and+interactive+platforms." alt="Typing SVG" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 > *"Data is read, not heard..."*
 
-Welcome to my academic & development space! I am a Lecturer & Researcher from PGRI Ronggolawe University (UNIROW) Tuban
+Welcome to my academic & development space! I am a Lecturer & Researcher from Universitas PGRI Ronggolawe (UNIROW) Tuban
 
 * 💡 Interactive Technology created: Developing gamification-based educational web applications, board games, and interactive platforms.
 * 📍Based in: Tuban, East Java, Indonesia 🇮🇩
