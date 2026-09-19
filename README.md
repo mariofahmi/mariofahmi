@@ -38,12 +38,10 @@
 
 > *"Data is read, not heard..."*
 
-Welcome to my academic & development space! I am a **Lecturer & Researcher** at **Universitas PGRI Ronggolawe (UNIROW) Tuban**, dedicated to **Civic Education (PPKn), Social Sciences, and Educational Technology**.
+Welcome to my academic & development space! I am a Lecturer & Researcher from PGRI Ronggolawe University (UNIROW) Tuban
 
-- 🔭 **Research Focus:** Civic Education, Social Science Paradigms, Coastal Studies, and Innovative Learning Models.
-- 💡 **Interactive Tech:** Developing gamified educational web apps, board games, and interactive platforms.
-- 📍 **Based in:** Tuban, East Java, Indonesia 🇮🇩
-- 📬 **Reach out:** [mariofahmiunirow@gmail.com](mailto:mariofahmiunirow@gmail.com)
+* 💡 Interactive Technology created: Developing gamification-based educational web applications, board games, and interactive platforms.
+* 📍Based in: Tuban, East Java, Indonesia 🇮🇩
 
 ---
 
