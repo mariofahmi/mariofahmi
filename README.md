@@ -1,27 +1,49 @@
 <h1 align="center">Hi, I'm Mario Fahmi Syahrial 👋</h1>
-<h3 align="center">Lecturer · Researcher</h3>
 
 <p align="center">
-  📍 Tuban, East Java &nbsp;•&nbsp;
-  🎓 Universitas PGRI Ronggolawe (UNIROW) Tuban &nbsp;•&nbsp;
-  </p>
-
-<p align="center">
-  <a href="https://orcid.org/0000-0002-0118-9410"><img src="https://img.shields.io/badge/ORCID-0000--0002--0118--9410-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
-  <a href="mailto:mariofahmiunirow@gmail.com"><img src="https://img.shields.io/badge/Email-mariofahmiunirow%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Lecturer+%C2%B7+Researcher+%C2%B7+EdTech+Creator;Universitas+PGRI+Ronggolawe+(UNIROW)+Tuban;Civic+Education+%C2%B7+Social+Sciences+%C2%B7+Interactive+Tech" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=60117161600"><img src="https://img.shields.io/badge/Scopus-60117161600-E9711C?style=flat&logo=scopus&logoColor=white" alt="Scopus ID"/></a>
-  <a href="https://scholar.google.com/citations?hl=id&user=n5hSjcEAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="https://sinta.kemdiktisaintek.go.id/authors/profile/6095725"><img src="https://img.shields.io/badge/SINTA-6095725-003A70?style=flat&logoColor=white" alt="SINTA ID"/></a>
+  <a href="https://maps.google.com/?q=Tuban,+East+Java" target="_blank">
+    <img src="https://img.shields.io/badge/📍_Location-Tuban%2C_East_Java-B91C1C?style=for-the-badge&logoColor=white" alt="Location"/>
+  </a>
+  &nbsp;
+  <a href="https://unirow.ac.id/" target="_blank">
+    <img src="https://img.shields.io/badge/🎓_Campus-UNIROW_Tuban-1E40AF?style=for-the-badge&logoColor=white" alt="Campus"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏛️_Role-Lecturer_%26_Researcher-065F46?style=for-the-badge&logoColor=white" alt="Role"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🇮🇩_Country-Indonesia-991B1B?style=for-the-badge&logoColor=white" alt="Country"/>
+</p>
+
+<p align="center">
+  <a href="https://orcid.org/0000-0002-0118-9410" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0002--0118--9410-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  &nbsp;
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60117161600" target="_blank"><img src="https://img.shields.io/badge/Scopus-60117161600-E9711C?style=flat-square&logo=scopus&logoColor=white" alt="Scopus ID"/></a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?hl=id&user=n5hSjcEAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  &nbsp;
+  <a href="https://sinta.kemdiktisaintek.go.id/authors/profile/6095725" target="_blank"><img src="https://img.shields.io/badge/SINTA-6095725-003A70?style=flat-square&logoColor=white" alt="SINTA ID"/></a>
+  &nbsp;
+  <a href="mailto:mariofahmiunirow@gmail.com"><img src="https://img.shields.io/badge/Email-mariofahmiunirow%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 ### 👋 About Me
 
-> "Data is read, not heard..."
+> *"Data is read, not heard..."*
+
+Welcome to my academic & development space! I am a **Lecturer & Researcher** at **Universitas PGRI Ronggolawe (UNIROW) Tuban**, dedicated to **Civic Education (PPKn), Social Sciences, and Educational Technology**.
+
+- 🔭 **Research Focus:** Civic Education, Social Science Paradigms, Coastal Studies, and Innovative Learning Models.
+- 💡 **Interactive Tech:** Developing gamified educational web apps, board games, and interactive platforms.
+- 📍 **Based in:** Tuban, East Java, Indonesia 🇮🇩
+- 📬 **Reach out:** [mariofahmiunirow@gmail.com](mailto:mariofahmiunirow@gmail.com)
 
 ---
 
