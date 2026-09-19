@@ -102,6 +102,11 @@
       <td>A modern, precise, and comprehensive application for calculating traditional Javanese time cycles, grounded in the ancient science of Javanese Titen Laku. Designed by Mario Fahmi Syahrial</td>
       <td align="center"><nobr>2026-09-11</nobr></td>
     </tr>
+    <tr>
+      <td>🔬 <a href="https://mariofahmi.github.io/Metode-Penelitian-Sosial/"><b>Metode Penelitian Sosial</b></a></td>
+      <td>An interactive educational platform for social research methodology, covering qualitative, quantitative, and experimental methods with sampling calculators, bias labs, gamified quizzes, and a methodology comparison matrix.</td>
+      <td align="center"><nobr>2026-09-19</nobr></td>
+    </tr>
   </tbody>
 </table>
 
