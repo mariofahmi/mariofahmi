@@ -30,6 +30,7 @@ REPO_LABELS = {
     "webgis-pesisir-tuban": "🛰️ WebGIS Pesisir Tuban",
     "Titen-Laku-Jawa": "🗓️ Titen Laku Jawa",
     "Metode-Penelitian-Sosial": "🔬 Metode Penelitian Sosial",
+    "NetWorth-Anda": "💰 NetWorth Anda",
 }
 
 REPO_DESCRIPTIONS = {
@@ -44,6 +45,7 @@ REPO_DESCRIPTIONS = {
     "webgis-pesisir-tuban": "An interactive coastal mapping portal with Leaflet &amp; Gemini AI Assistant.",
     "Titen-Laku-Jawa": "A precise application for calculating traditional Javanese time cycles.",
     "Metode-Penelitian-Sosial": "An interactive platform that guides students and researchers in understanding social research paradigms, preventing methodological bias, and drafting research methods with ease.",
+    "NetWorth-Anda": "A modern, privacy-first personal wealth tracker and financial freedom planner.",
 }
 
 REPO_URLS = {

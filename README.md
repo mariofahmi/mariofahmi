@@ -143,6 +143,11 @@
       <td>An interactive platform that guides students and researchers in understanding social research paradigms, preventing methodological bias, and drafting research methods with ease.</td>
       <td align="center"><nobr>2026-09-19</nobr></td>
     </tr>
+    <tr>
+      <td>💰 <a href="https://mariofahmi.github.io/NetWorth-Anda/"><b>NetWorth Anda</b></a></td>
+      <td>A modern, privacy-first personal wealth tracker and financial freedom planner. Monitor net worth, optimize debt payoff, and track savings goals with 100% offline client-side storage. Designed by Mario Fahmi Syahrial.</td>
+      <td align="center"><nobr>2026-09-19</nobr></td>
+    </tr>
   </tbody>
 </table>
 
