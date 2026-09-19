@@ -104,7 +104,7 @@
     </tr>
     <tr>
       <td>🔬 <a href="https://mariofahmi.github.io/Metode-Penelitian-Sosial/"><b>Metode Penelitian Sosial</b></a></td>
-      <td>An interactive educational platform for social research methodology, covering qualitative, quantitative, and experimental methods with sampling calculators, bias labs, gamified quizzes, and a methodology comparison matrix.</td>
+      <td>An interactive platform that guides students and researchers in understanding social research paradigms, preventing methodological bias, and drafting research methods with ease.</td>
       <td align="center"><nobr>2026-09-19</nobr></td>
     </tr>
   </tbody>
