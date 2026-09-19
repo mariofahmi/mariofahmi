@@ -1,49 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     viewBox="0 0 680 50"
-     width="680" height="50"
+     viewBox="0 0 780 70"
+     width="780" height="70"
      style="background-color: transparent;">
   <defs>
-    <!-- Vibrant Animated Rainbow Gradient -->
+    <!-- Dynamic Shimmering Rainbow Gradient -->
     <linearGradient id="rainbowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF1361">
-        <animate attributeName="stop-color" values="#FF1361;#FFF800;#00F5D4;#7B2CBF;#FF1361" dur="7s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#FF0055">
+        <animate attributeName="stop-color" values="#FF0055;#FFD000;#00F59B;#00D2FF;#BD00FF;#FF0055" dur="8s" repeatCount="indefinite" />
       </stop>
-      <stop offset="25%" stop-color="#FF6B35">
-        <animate attributeName="stop-color" values="#FF6B35;#00F5D4;#00B4D8;#FF1361;#FF6B35" dur="7s" repeatCount="indefinite" />
+      <stop offset="20%" stop-color="#FF5500">
+        <animate attributeName="stop-color" values="#FF5500;#00F59B;#00D2FF;#BD00FF;#FF0055;#FF5500" dur="8s" repeatCount="indefinite" />
       </stop>
-      <stop offset="50%" stop-color="#FFF800">
-        <animate attributeName="stop-color" values="#FFF800;#00B4D8;#7B2CBF;#FF6B35;#FFF800" dur="7s" repeatCount="indefinite" />
+      <stop offset="40%" stop-color="#FFD000">
+        <animate attributeName="stop-color" values="#FFD000;#00D2FF;#BD00FF;#FF0055;#FF5500;#FFD000" dur="8s" repeatCount="indefinite" />
       </stop>
-      <stop offset="75%" stop-color="#00F5D4">
-        <animate attributeName="stop-color" values="#00F5D4;#7B2CBF;#FF1361;#FFF800;#00F5D4" dur="7s" repeatCount="indefinite" />
+      <stop offset="60%" stop-color="#00F59B">
+        <animate attributeName="stop-color" values="#00F59B;#BD00FF;#FF0055;#FF5500;#FFD000;#00F59B" dur="8s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#00B4D8">
-        <animate attributeName="stop-color" values="#00B4D8;#FF1361;#FF6B35;#00F5D4;#00B4D8" dur="7s" repeatCount="indefinite" />
+      <stop offset="80%" stop-color="#00D2FF">
+        <animate attributeName="stop-color" values="#00D2FF;#FF0055;#FF5500;#FFD000;#00F59B;#00D2FF" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#BD00FF">
+        <animate attributeName="stop-color" values="#BD00FF;#FF5500;#FFD000;#00F59B;#00D2FF;#BD00FF" dur="8s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
-    <!-- Typing Path Animation -->
+    <!-- Precise Centered Typing Animation Path -->
     <path id="typePath">
       <animate id="typeAnim" attributeName="d" begin="0s;typeAnim.end"
-               dur="4800ms" fill="remove"
-               values="m40,33 h0 ; m40,33 h600 ; m40,33 h600 ; m40,33 h0"
-               keyTimes="0;0.72;0.88;1" />
+               dur="5000ms" fill="remove"
+               values="m0,35 h0 ; m0,35 h780 ; m0,35 h780 ; m0,35 h0"
+               keyTimes="0;0.75;0.88;1" />
     </path>
 
-    <!-- Glowing Drop Shadow for maximum contrast on dark & light themes -->
-    <filter id="rainbowGlow" x="-10%" y="-20%" width="120%" height="140%">
-      <feDropShadow dx="0" dy="1.5" stdDeviation="2" flood-color="#FF1361" flood-opacity="0.35" />
+    <!-- Subtle Drop-Shadow for High Contrast on both Dark & Light GitHub themes -->
+    <filter id="textGlow" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-color="#000000" flood-opacity="0.3" />
     </filter>
   </defs>
 
-  <!-- Animated Typed Rainbow Motto -->
+  <!-- Mathematically & Visually Centered Text (Larger than h1 32px -> 36px font size) -->
   <text font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif"
         font-weight="800"
-        font-size="23"
-        letter-spacing="1px"
+        font-size="36"
+        dominant-baseline="middle"
+        x="50%"
+        text-anchor="middle"
+        letter-spacing="0.5px"
         fill="url(#rainbowGrad)"
-        filter="url(#rainbowGlow)">
+        filter="url(#textGlow)">
     <textPath xlink:href="#typePath">
       DATA DIBACA..BUKAN DI DENGAR..!!!
     </textPath>
