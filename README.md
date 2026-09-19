@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Mario Fahmi Syahrial 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=23&duration=3500&pause=1000&color=FF2E63&center=true&vCenter=true&width=580&lines=DATA+DIBACA..BUKAN+DI+DENGAR..!!!" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/motto.svg" alt="DATA DIBACA..BUKAN DI DENGAR..!!!" />
 </p>
 
 <p align="center">
