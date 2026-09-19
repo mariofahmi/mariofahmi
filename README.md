@@ -25,6 +25,43 @@
 
 ---
 
+### 🔥 Most Visited (Last 14 Days)
+
+<table>
+  <thead>
+    <tr>
+      <th width="5%" align="center">Rank</th>
+      <th width="28%" align="left">Project</th>
+      <th width="53%" align="left">Description</th>
+      <th width="14%" align="center">Views</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🥇</td>
+      <td>🐍 <a href="https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/"><b>PyDuel: Battle of Algorithms</b></a></td>
+      <td>An educational Python and algorithms game for university students — speed-duel against PyBot AI or try the 3-life Survival Run mode.</td>
+      <td align="center"><nobr>51 views</nobr></td>
+    </tr>
+    <tr>
+      <td align="center">🥈</td>
+      <td>🏛️ <a href="https://mariofahmi.github.io/CivicQUEST/"><b>CivicQUEST</b></a></td>
+      <td>A PPKn education game featuring a Survival Quiz, an RPG-style Ethics Dilemma mode, a 7-zone Boss Battle, and a Pancasila Village Simulation.</td>
+      <td align="center"><nobr>39 views</nobr></td>
+    </tr>
+    <tr>
+      <td align="center">🥉</td>
+      <td>🌱🦸 <a href="https://mariofahmi.github.io/Pahlawan-Cilik-Siaga-Lingkungan/"><b>Pahlawan Cilik Siaga Lingkungan</b></a></td>
+      <td>An educational gamification web app for children's 3R awareness and school waste management.</td>
+      <td align="center"><nobr>36 views</nobr></td>
+    </tr>
+  </tbody>
+</table>
+
+> 📊 *Traffic data is updated automatically every 14 days via GitHub Insights.*
+
+---
+
 ### 🎮 Game Projects
 
 <table>
