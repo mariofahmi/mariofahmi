@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Mario Fahmi Syahrial 👋</h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/motto.svg" alt="DATA DIBACA..BUKAN DI DENGAR..!!!" />
 </p>
