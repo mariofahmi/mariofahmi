@@ -1,52 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="246" viewBox="0 0 780 246">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f172a"/>
       <stop offset="50%" stop-color="#1e1b4b"/>
       <stop offset="100%" stop-color="#0f172a"/>
     </linearGradient>
+
+    <!-- Gold Gradient (Rank 1) -->
     <linearGradient id="barGrad0" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#f59e0b"/>
       <stop offset="100%" stop-color="#fbbf24"/>
     </linearGradient>
+
+    <!-- Silver Gradient (Rank 2) -->
     <linearGradient id="barGrad1" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#94a3b8"/>
       <stop offset="100%" stop-color="#cbd5e1"/>
     </linearGradient>
+
+    <!-- Bronze Gradient (Rank 3) -->
     <linearGradient id="barGrad2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#b45309"/>
-      <stop offset="100%" stop-color="#d97706"/>
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
     </linearGradient>
+
+    <!-- Subtle Drop Shadow -->
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
   </defs>
 
   <!-- Card Background -->
-  <rect width="760" height="220" rx="14" fill="url(#bgGrad)"/>
-  <rect width="760" height="220" rx="14" fill="none" stroke="#334155" stroke-width="1.5"/>
+  <rect width="780" height="246" rx="14" fill="url(#bgGrad)" filter="url(#cardShadow)"/>
+  <rect width="780" height="246" rx="14" fill="none" stroke="#334155" stroke-width="1.5"/>
 
   <!-- Header -->
-  <text x="35" y="34" fill="#38bdf8" font-size="14" font-family="system-ui, -apple-system, sans-serif" font-weight="bold">🔥 Most Popular Projects (Last 14 Days)</text>
-  <text x="725" y="34" fill="#64748b" font-size="11" font-family="monospace" text-anchor="end">Total: 186 views · Updated: 2026-09-19 06:52 UTC</text>
+  <text x="35" y="32" fill="#38bdf8" font-size="14" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="bold">🔥 Most Popular Projects (Last 14 Days)</text>
+  <text x="745" y="32" fill="#64748b" font-size="11" font-family="monospace" text-anchor="end">Total: 186 views · Updated: 2026-09-19 06:52 UTC</text>
 
-  <line x1="35" y1="44" x2="725" y2="44" stroke="#334155" stroke-width="1"/>
+  <!-- Divider Line -->
+  <line x1="35" y1="44" x2="745" y2="44" stroke="#334155" stroke-width="1"/>
 
-  <!-- Bars -->
-  
-    <!-- Row 1 -->
-    <text x="35" y="76" fill="#e2e8f0" font-size="13" font-family="system-ui, -apple-system, sans-serif">🥇 🐍 PyDuel: Battle of Algorithms</text>
-    <rect x="230" y="64" width="380" height="18" rx="9" fill="url(#barGrad0)"/>
-    <text x="622" y="77" fill="#94a3b8" font-size="12" font-family="monospace" font-weight="bold">51 views (1 unique)</text>
+  <!-- Row 1: PyDuel -->
+  <text x="35" y="72" fill="#f1f5f9" font-size="13" font-weight="600" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">🥇 🐍 PyDuel: Battle of Algorithms</text>
+  <text x="745" y="72" fill="#94a3b8" font-size="12" font-family="monospace" font-weight="bold" text-anchor="end">51 views <tspan fill="#64748b" font-weight="normal">(1 unique)</tspan></text>
+  <rect x="35" y="82" width="710" height="8" rx="4" fill="#334155" opacity="0.4"/>
+  <rect x="35" y="82" width="710" height="8" rx="4" fill="url(#barGrad0)"/>
 
-    <!-- Row 2 -->
-    <text x="35" y="118" fill="#e2e8f0" font-size="13" font-family="system-ui, -apple-system, sans-serif">🥈 🏛️ CivicQUEST</text>
-    <rect x="230" y="106" width="290" height="18" rx="9" fill="url(#barGrad1)"/>
-    <text x="532" y="119" fill="#94a3b8" font-size="12" font-family="monospace" font-weight="bold">39 views (1 unique)</text>
+  <!-- Row 2: CivicQUEST -->
+  <text x="35" y="118" fill="#f1f5f9" font-size="13" font-weight="600" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">🥈 🏛️ CivicQUEST</text>
+  <text x="745" y="118" fill="#94a3b8" font-size="12" font-family="monospace" font-weight="bold" text-anchor="end">39 views <tspan fill="#64748b" font-weight="normal">(1 unique)</tspan></text>
+  <rect x="35" y="128" width="710" height="8" rx="4" fill="#334155" opacity="0.4"/>
+  <rect x="35" y="128" width="543" height="8" rx="4" fill="url(#barGrad1)"/>
 
-    <!-- Row 3 -->
-    <text x="35" y="160" fill="#e2e8f0" font-size="13" font-family="system-ui, -apple-system, sans-serif">🥉 🌱🦸 Pahlawan Cilik Siaga Lingkungan</text>
-    <rect x="230" y="148" width="268" height="18" rx="9" fill="url(#barGrad2)"/>
-    <text x="510" y="161" fill="#94a3b8" font-size="12" font-family="monospace" font-weight="bold">36 views (1 unique)</text>
+  <!-- Row 3: Pahlawan Cilik Siaga Lingkungan -->
+  <text x="35" y="164" fill="#f1f5f9" font-size="13" font-weight="600" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">🥉 🌱🦸 Pahlawan Cilik Siaga Lingkungan</text>
+  <text x="745" y="164" fill="#94a3b8" font-size="12" font-family="monospace" font-weight="bold" text-anchor="end">36 views <tspan fill="#64748b" font-weight="normal">(1 unique)</tspan></text>
+  <rect x="35" y="174" width="710" height="8" rx="4" fill="#334155" opacity="0.4"/>
+  <rect x="35" y="174" width="501" height="8" rx="4" fill="url(#barGrad2)"/>
 
+  <!-- Footer Divider -->
+  <line x1="35" y1="204" x2="745" y2="204" stroke="#334155" stroke-width="0.8" opacity="0.6"/>
 
-  <!-- Footer Info -->
-  <text x="35" y="204" fill="#64748b" font-size="10" font-family="system-ui, -apple-system, sans-serif">⚡ Automatically updated daily via GitHub Actions</text>
+  <!-- Footer -->
+  <text x="35" y="226" fill="#64748b" font-size="10.5" font-family="system-ui, -apple-system, sans-serif">⚡ Automatically updated daily via GitHub Actions</text>
+  <text x="745" y="226" fill="#475569" font-size="10" font-family="system-ui, -apple-system, sans-serif" text-anchor="end">UNIROW Tuban · Mario Fahmi</text>
 </svg>

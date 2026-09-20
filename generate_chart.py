@@ -59,71 +59,91 @@ def get_traffic(repo):
         if r.status_code == 200:
             data = r.json()
             return data.get("count", 0), data.get("uniques", 0)
+        else:
+            print(f"  [HTTP {r.status_code}] Unable to fetch {repo}: {r.text[:80]}")
     except Exception as e:
         print(f"Error fetching {repo}: {e}")
     return 0, 0
 
 def generate_svg(top_repos, total_all_views):
-    W = 760
-    H = 220
+    W = 780
+    H = 246
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     bars_svg = ""
-    start_y = 60
-    row_height = 42
+    start_y = 58
+    row_height = 46
     max_views = max([r[0] for r in top_repos] + [1])
-    bar_max_width = 380
+    bar_max_width = 710
 
     for i, (views, uniques, repo) in enumerate(top_repos[:3]):
         y = start_y + i * row_height
-        bar_w = max(10, int((views / max_views) * bar_max_width))
+        bar_w = max(16, int((views / max_views) * bar_max_width))
         label = REPO_LABELS.get(repo, repo)
         medals = ["🥇", "🥈", "🥉"]
         medal = medals[i] if i < len(medals) else "•"
 
         bars_svg += f'''
-    <!-- Row {i+1} -->
-    <text x="35" y="{y + 16}" fill="#e2e8f0" font-size="13" font-family="system-ui, -apple-system, sans-serif">{medal} {label}</text>
-    <rect x="230" y="{y + 4}" width="{bar_w}" height="18" rx="9" fill="url(#barGrad{i})"/>
-    <text x="{230 + bar_w + 12}" y="{y + 17}" fill="#94a3b8" font-size="12" font-family="monospace" font-weight="bold">{views} views ({uniques} unique)</text>
+    <!-- Row {i+1}: {label} -->
+    <text x="35" y="{y + 14}" fill="#f1f5f9" font-size="13" font-weight="600" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">{medal} {label}</text>
+    <text x="{W - 35}" y="{y + 14}" fill="#94a3b8" font-size="12" font-family="monospace" font-weight="bold" text-anchor="end">{views} views <tspan fill="#64748b" font-weight="normal">({uniques} unique)</tspan></text>
+    <rect x="35" y="{y + 24}" width="{bar_max_width}" height="8" rx="4" fill="#334155" opacity="0.4"/>
+    <rect x="35" y="{y + 24}" width="{bar_w}" height="8" rx="4" fill="url(#barGrad{i})"/>
 '''
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f172a"/>
       <stop offset="50%" stop-color="#1e1b4b"/>
       <stop offset="100%" stop-color="#0f172a"/>
     </linearGradient>
+
+    <!-- Gold Gradient (Rank 1) -->
     <linearGradient id="barGrad0" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#f59e0b"/>
       <stop offset="100%" stop-color="#fbbf24"/>
     </linearGradient>
+
+    <!-- Silver Gradient (Rank 2) -->
     <linearGradient id="barGrad1" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#94a3b8"/>
       <stop offset="100%" stop-color="#cbd5e1"/>
     </linearGradient>
+
+    <!-- Bronze Gradient (Rank 3) -->
     <linearGradient id="barGrad2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#b45309"/>
-      <stop offset="100%" stop-color="#d97706"/>
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
     </linearGradient>
+
+    <!-- Subtle Drop Shadow -->
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
   </defs>
 
   <!-- Card Background -->
-  <rect width="{W}" height="{H}" rx="14" fill="url(#bgGrad)"/>
+  <rect width="{W}" height="{H}" rx="14" fill="url(#bgGrad)" filter="url(#cardShadow)"/>
   <rect width="{W}" height="{H}" rx="14" fill="none" stroke="#334155" stroke-width="1.5"/>
 
   <!-- Header -->
-  <text x="35" y="34" fill="#38bdf8" font-size="14" font-family="system-ui, -apple-system, sans-serif" font-weight="bold">🔥 Most Popular Projects (Last 14 Days)</text>
-  <text x="{W - 35}" y="34" fill="#64748b" font-size="11" font-family="monospace" text-anchor="end">Total: {total_all_views} views · Updated: {now}</text>
+  <text x="35" y="32" fill="#38bdf8" font-size="14" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="bold">🔥 Most Popular Projects (Last 14 Days)</text>
+  <text x="{W - 35}" y="32" fill="#64748b" font-size="11" font-family="monospace" text-anchor="end">Total: {total_all_views} views · Updated: {now}</text>
 
+  <!-- Divider Line -->
   <line x1="35" y1="44" x2="{W - 35}" y2="44" stroke="#334155" stroke-width="1"/>
 
   <!-- Bars -->
   {bars_svg}
 
+  <!-- Footer Divider -->
+  <line x1="35" y1="{H - 42}" x2="{W - 35}" y2="{H - 42}" stroke="#334155" stroke-width="0.8" opacity="0.6"/>
+
   <!-- Footer Info -->
-  <text x="35" y="{H - 16}" fill="#64748b" font-size="10" font-family="system-ui, -apple-system, sans-serif">⚡ Automatically updated daily via GitHub Actions</text>
+  <text x="35" y="{H - 20}" fill="#64748b" font-size="10.5" font-family="system-ui, -apple-system, sans-serif">⚡ Automatically updated daily via GitHub Actions</text>
+  <text x="{W - 35}" y="{H - 20}" fill="#475569" font-size="10" font-family="system-ui, -apple-system, sans-serif" text-anchor="end">UNIROW Tuban · Mario Fahmi</text>
 </svg>'''
 
     os.makedirs("assets", exist_ok=True)
@@ -137,10 +157,10 @@ def update_readme(top3):
 
     rows = ""
     for i, (views, uniques, repo) in enumerate(top3):
-        label = REPO_LABELS[repo]
+        label = REPO_LABELS.get(repo, repo)
         desc = REPO_DESCRIPTIONS.get(repo, "")
-        url = REPO_URLS[repo]
-        medal = medals[i]
+        url = REPO_URLS.get(repo, f"https://mariofahmi.github.io/{repo}/")
+        medal = medals[i] if i < len(medals) else "•"
         rows += f"""    <tr>
       <td align="center">{medal}</td>
       <td><a href="{url}"><b>{label}</b></a></td>
@@ -170,7 +190,7 @@ def update_readme(top3):
         with open("README.md", "r", encoding="utf-8") as f:
             readme = f.read()
 
-        pattern = r"(### 🔥 Most Visited.*?)(?=\n---\n)"
+        pattern = r"(### 🔥 Most Visited.*?)(?=\r?\n---)"
         new_readme = re.sub(pattern, new_section, readme, flags=re.DOTALL)
 
         if new_readme != readme:
@@ -192,6 +212,10 @@ def main():
 
     results.sort(reverse=True)
     top3 = results[:3]
+
+    if total_views == 0 and os.path.exists("assets/traffic-chart.svg"):
+        print("⚠️ Warning: Total views is 0. Token might be missing or API rate-limited. Preserving existing chart.")
+        return
 
     # 1. Update README
     update_readme(top3)
