@@ -46,92 +46,264 @@ Just randomly designing gamification-based educational web applications, board g
 
 ### 🎮 Game Projects
 
-<table>
-  <thead>
-    <tr>
-      <th width="28%" align="left">Project</th>
-      <th width="58%" align="left">Description</th>
-      <th width="14%" align="center">Release</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🎲 <a href="https://mariofahmi.github.io/bogaseri/"><b>BOGA SERI</b></a></td>
-      <td>An interactive web-based board game teaching Indonesian traffic safety, based on Law No. 22/2009 on Traffic and Road Transportation.</td>
-      <td align="center"><nobr>2026-08-12</nobr></td>
-    </tr>
-    <tr>
-      <td>🐍🪜 <a href="https://mariofahmi.github.io/Ular-Tangga-PIS/"><b>Ular Tangga PIS (Snakes &amp; Ladders)</b></a></td>
-      <td>An educational Snakes &amp; Ladders game for Introduction to Social Sciences, with a 100-square board and interactive quiz ladders.</td>
-      <td align="center"><nobr>2026-08-23</nobr></td>
-    </tr>
-    <tr>
-      <td>👑 <a href="https://mariofahmi.github.io/SIAPA-INGIN-MENJADI-KAISAR-IPS/"><b>Siapa Ingin Menjadi Kaisar IPS</b></a></td>
-      <td>A "Who Wants to Be a Millionaire"-style quiz game on Social Studies (IPS): climb 15 levels from Commoner to Emperor across 120 random questions, with 3 lifelines.</td>
-      <td align="center"><nobr>2026-08-28</nobr></td>
-    </tr>
-    <tr>
-      <td>⚖️ <a href="https://mariofahmi.github.io/Simulasi-Peradilan-Semu-PPKn-/"><b>Peradilan Semu (Moot Court Simulation)</b></a></td>
-      <td>An interactive moot court simulation for PPKn UNIROW Tuban students, featuring 4 real trial cases (corruption, domestic violence, ITE Law, land disputes) and a 50-question exam bank.</td>
-      <td align="center"><nobr>2026-08-29</nobr></td>
-    </tr>
-    <tr>
-      <td>🎓 <a href="https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/"><b>Siapa yang Ingin Menjadi Mahaguru</b></a></td>
-      <td>An educational quiz game with 15 academic-tier levels exploring the history of teachers, PGRI's transformation, and the AI revolution.</td>
-      <td align="center"><nobr>2026-08-30</nobr></td>
-    </tr>
-    <tr>
-      <td>🐍 <a href="https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/"><b>PyDuel: Battle of Algorithms</b></a></td>
-      <td>An educational Python and algorithms game for university students — speed-duel against PyBot AI or try the 3-life Survival Run mode.</td>
-      <td align="center"><nobr>2026-09-05</nobr></td>
-    </tr>
-    <tr>
-      <td>🏛️ <a href="https://mariofahmi.github.io/CivicQUEST/"><b>CivicQUEST</b></a></td>
-      <td>A PPKn education game featuring a Survival Quiz, an RPG-style Ethics Dilemma mode, a 7-zone Boss Battle, and a Pancasila Village Simulation.</td>
-      <td align="center"><nobr>2026-09-06</nobr></td>
-    </tr>
-    <tr>
-      <td>🌱🦸 <a href="https://mariofahmi.github.io/Pahlawan-Cilik-Siaga-Lingkungan/"><b>Pahlawan Cilik Siaga Lingkungan</b></a></td>
-      <td>An educational gamification web app for children's 3R awareness and school waste management, featuring 4-bin waste sorting, a mini bank sampah passbook simulation, Takakura composting, and a 3R daily habit checklist.</td>
-      <td align="center"><nobr>2026-09-14</nobr></td>
-    </tr>
-  </tbody>
+<table width="100%">
+  <tr>
+    <!-- Card 1: BOGA SERI -->
+    <td width="50%" valign="top">
+      <h3 align="left">🎲 <a href="https://mariofahmi.github.io/bogaseri/">BOGA SERI</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Traffic_Safety-0284c7?style=flat-square" alt="Traffic Safety" />
+        <img src="https://img.shields.io/badge/Board_Game-7c3aed?style=flat-square" alt="Board Game" />
+      </p>
+      <p>An interactive web-based board game teaching Indonesian traffic safety, based on <b>Law No. 22/2009</b> on Traffic and Road Transportation.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/bogaseri/" target="_blank">
+          <img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/bogaseri" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-08-12</code></sub></div>
+    </td>
+
+    <!-- Card 2: Ular Tangga PIS -->
+    <td width="50%" valign="top">
+      <h3 align="left">🐍🪜 <a href="https://mariofahmi.github.io/Ular-Tangga-PIS/">Ular Tangga PIS</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Social_Sciences-10b981?style=flat-square" alt="Social Sciences" />
+        <img src="https://img.shields.io/badge/Snakes_&_Ladders-ea580c?style=flat-square" alt="Snakes & Ladders" />
+      </p>
+      <p>An educational Snakes &amp; Ladders game for Introduction to Social Sciences, with a <b>100-square board</b> and interactive quiz ladders.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/Ular-Tangga-PIS/" target="_blank">
+          <img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/Ular-Tangga-PIS" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-08-23</code></sub></div>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Card 3: Siapa Ingin Menjadi Kaisar IPS -->
+    <td width="50%" valign="top">
+      <h3 align="left">👑 <a href="https://mariofahmi.github.io/SIAPA-INGIN-MENJADI-KAISAR-IPS/">Kaisar IPS</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Quiz_Game-f59e0b?style=flat-square" alt="Quiz Game" />
+        <img src="https://img.shields.io/badge/15_Tiers-6366f1?style=flat-square" alt="15 Tiers" />
+      </p>
+      <p>A "Who Wants to Be a Millionaire"-style quiz game on Social Studies (IPS): climb 15 levels from Commoner to Emperor across <b>120 random questions</b> with 3 lifelines.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/SIAPA-INGIN-MENJADI-KAISAR-IPS/" target="_blank">
+          <img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/SIAPA-INGIN-MENJADI-KAISAR-IPS" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-08-28</code></sub></div>
+    </td>
+
+    <!-- Card 4: Peradilan Semu -->
+    <td width="50%" valign="top">
+      <h3 align="left">⚖️ <a href="https://mariofahmi.github.io/Simulasi-Peradilan-Semu-PPKn-/">Peradilan Semu</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/PPKn_Law-ef4444?style=flat-square" alt="PPKn Law" />
+        <img src="https://img.shields.io/badge/Moot_Court-3b82f6?style=flat-square" alt="Moot Court" />
+      </p>
+      <p>An interactive moot court simulation for PPKn UNIROW Tuban students, featuring <b>4 real trial cases</b> (corruption, domestic violence, ITE Law, land disputes) & 50-question exam.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/Simulasi-Peradilan-Semu-PPKn-/" target="_blank">
+          <img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/Simulasi-Peradilan-Semu-PPKn-" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-08-29</code></sub></div>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Card 5: Siapa yang Ingin Menjadi Mahaguru -->
+    <td width="50%" valign="top">
+      <h3 align="left">🎓 <a href="https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/">Mahaguru Quiz</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Academic_History-8b5cf6?style=flat-square" alt="Academic History" />
+        <img src="https://img.shields.io/badge/PGRI_&_AI-06b6d4?style=flat-square" alt="PGRI & AI" />
+      </p>
+      <p>An educational quiz game with <b>15 academic-tier levels</b> exploring the history of teachers, PGRI's transformation, and the AI revolution.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/Siapa-yang-Ingin-Menjadi-Mahaguru/" target="_blank">
+          <img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/Siapa-yang-Ingin-Menjadi-Mahaguru" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-08-30</code></sub></div>
+    </td>
+
+    <!-- Card 6: PyDuel -->
+    <td width="50%" valign="top">
+      <h3 align="left">🐍 <a href="https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/">PyDuel: Battle of Algorithms</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python_Code-3776AB?style=flat-square" alt="Python" />
+        <img src="https://img.shields.io/badge/AI_Duel-10b981?style=flat-square" alt="AI Duel" />
+      </p>
+      <p>An educational Python and algorithms game for university students — speed-duel against <b>PyBot AI</b> or try the 3-life Survival Run mode.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/" target="_blank">
+          <img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/PyDuel-Battle-of-Algorithms" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-09-05</code></sub></div>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Card 7: CivicQUEST -->
+    <td width="50%" valign="top">
+      <h3 align="left">🏛️ <a href="https://mariofahmi.github.io/CivicQUEST/">CivicQUEST</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/PPKn_RPG-0d9488?style=flat-square" alt="PPKn RPG" />
+        <img src="https://img.shields.io/badge/Boss_Battle-e11d48?style=flat-square" alt="Boss Battle" />
+      </p>
+      <p>A PPKn education game featuring a Survival Quiz, an RPG-style <b>Ethics Dilemma</b> mode, a 7-zone Boss Battle, and a Pancasila Village Simulation.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/CivicQUEST/" target="_blank">
+          <img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/CivicQUEST" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-09-06</code></sub></div>
+    </td>
+
+    <!-- Card 8: Pahlawan Cilik Siaga Lingkungan -->
+    <td width="50%" valign="top">
+      <h3 align="left">🌱🦸 <a href="https://mariofahmi.github.io/Pahlawan-Cilik-Siaga-Lingkungan/">Pahlawan Cilik</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/3R_Gamification-15803d?style=flat-square" alt="3R Gamification" />
+        <img src="https://img.shields.io/badge/Eco_Awareness-84cc16?style=flat-square" alt="Eco Awareness" />
+      </p>
+      <p>An educational gamification web app for children's 3R awareness: <b>4-bin waste sorting</b>, mini bank sampah simulation, and Takakura composting.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/Pahlawan-Cilik-Siaga-Lingkungan/" target="_blank">
+          <img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/Pahlawan-Cilik-Siaga-Lingkungan" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-09-14</code></sub></div>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ### 📚 Education Projects
 
-<table>
-  <thead>
-    <tr>
-      <th width="28%" align="left">Project</th>
-      <th width="58%" align="left">Description</th>
-      <th width="14%" align="center">Release</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🛰️ <a href="https://mariofahmi.github.io/webgis-pesisir-tuban/"><b>WebGIS Pesisir Tuban</b></a></td>
-      <td>An interactive coastal mapping portal built with Leaflet &amp; Google Gemini AI Assistant, featuring 77 GPS points and 212 photos across 5 coastal districts of Tuban.</td>
-      <td align="center"><nobr>2026-08-10</nobr></td>
-    </tr>
-    <tr>
-      <td>🗓️ <a href="https://mariofahmi.github.io/Titen-Laku-Jawa/"><b>Titen Laku Jawa</b></a></td>
-      <td>A modern, precise, and comprehensive application for calculating traditional Javanese time cycles, grounded in the ancient science of Javanese Titen Laku. Designed by Mario Fahmi Syahrial</td>
-      <td align="center"><nobr>2026-09-11</nobr></td>
-    </tr>
-    <tr>
-      <td>🔬 <a href="https://mariofahmi.github.io/Metode-Penelitian-Sosial/"><b>Metode Penelitian Sosial</b></a></td>
-      <td>An interactive platform that guides students and researchers in understanding social research paradigms, preventing methodological bias, and drafting research methods with ease.</td>
-      <td align="center"><nobr>2026-09-19</nobr></td>
-    </tr>
-    <tr>
-      <td>💰 <a href="https://mariofahmi.github.io/NetWorth-Anda/"><b>NetWorth Anda</b></a></td>
-      <td>A modern, privacy-first personal wealth tracker and financial freedom planner. Monitor net worth, optimize debt payoff, and track savings goals with 100% offline client-side storage. Designed by Mario Fahmi Syahrial.</td>
-      <td align="center"><nobr>2026-09-19</nobr></td>
-    </tr>
-  </tbody>
+<table width="100%">
+  <tr>
+    <!-- Card 1: WebGIS Pesisir Tuban -->
+    <td width="50%" valign="top">
+      <h3 align="left">🛰️ <a href="https://mariofahmi.github.io/webgis-pesisir-tuban/">WebGIS Pesisir Tuban</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/WebGIS_Leaflet-15803d?style=flat-square" alt="WebGIS Leaflet" />
+        <img src="https://img.shields.io/badge/Gemini_AI-2563eb?style=flat-square" alt="Gemini AI" />
+      </p>
+      <p>An interactive coastal mapping portal built with Leaflet &amp; Google Gemini AI Assistant, featuring <b>77 GPS points</b> and 212 photos across 5 coastal districts of Tuban.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/webgis-pesisir-tuban/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Launch_App-0284C7?style=for-the-badge&logoColor=white" alt="Launch App"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/webgis-pesisir-tuban" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-08-10</code></sub></div>
+    </td>
+
+    <!-- Card 2: Titen Laku Jawa -->
+    <td width="50%" valign="top">
+      <h3 align="left">🗓️ <a href="https://mariofahmi.github.io/Titen-Laku-Jawa/">Titen Laku Jawa</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Javanese_Calendar-b45309?style=flat-square" alt="Javanese Calendar" />
+        <img src="https://img.shields.io/badge/Cultural_Science-78350f?style=flat-square" alt="Cultural Science" />
+      </p>
+      <p>A modern, precise application for calculating <b>traditional Javanese time cycles</b>, grounded in the ancient science of Javanese Titen Laku.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/Titen-Laku-Jawa/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Launch_App-0284C7?style=for-the-badge&logoColor=white" alt="Launch App"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/Titen-Laku-Jawa" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-09-11</code></sub></div>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Card 3: Metode Penelitian Sosial -->
+    <td width="50%" valign="top">
+      <h3 align="left">🔬 <a href="https://mariofahmi.github.io/Metode-Penelitian-Sosial/">Metode Penelitian Sosial</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Research_Methodology-4f46e5?style=flat-square" alt="Research Methodology" />
+        <img src="https://img.shields.io/badge/Academic_Guide-0891b2?style=flat-square" alt="Academic Guide" />
+      </p>
+      <p>An interactive platform guiding researchers in understanding <b>social research paradigms</b>, preventing methodological bias, and drafting research methods.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/Metode-Penelitian-Sosial/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Launch_App-0284C7?style=for-the-badge&logoColor=white" alt="Launch App"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/Metode-Penelitian-Sosial" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-09-19</code></sub></div>
+    </td>
+
+    <!-- Card 4: NetWorth Anda -->
+    <td width="50%" valign="top">
+      <h3 align="left">💰 <a href="https://mariofahmi.github.io/NetWorth-Anda/">NetWorth Anda</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Wealth_Tracker-059669?style=flat-square" alt="Wealth Tracker" />
+        <img src="https://img.shields.io/badge/FIRE_Planner-0284c7?style=flat-square" alt="FIRE Planner" />
+      </p>
+      <p>A modern, privacy-first personal wealth tracker and financial freedom planner with <b>100% offline client-side storage</b> and debt payoff optimization.</p>
+      <p align="left">
+        <a href="https://mariofahmi.github.io/NetWorth-Anda/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Launch_App-0284C7?style=for-the-badge&logoColor=white" alt="Launch App"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/mariofahmi/NetWorth-Anda" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+      <div align="right"><sub>🗓️ <code>2026-09-19</code></sub></div>
+    </td>
+  </tr>
 </table>
 
 ---
