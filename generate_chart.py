@@ -209,43 +209,13 @@ def generate_svg(top_repos, total_all_views):
     print("assets/traffic-chart.svg generated successfully.")
 
 def update_readme(top3):
-    medals = ["🥇", "🥈", "🥉"]
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
-    rows = ""
-    for i, (views, uniques, repo) in enumerate(top3):
-        label = REPO_LABELS.get(repo, repo)
-        desc = REPO_DESCRIPTIONS.get(repo, "")
-        url = REPO_URLS.get(repo, f"https://mariofahmi.github.io/{repo}/")
-        medal = medals[i] if i < len(medals) else "•"
-        rows += f"""    <tr>
-      <td align="center">{medal}</td>
-      <td><a href="{url}"><b>{label}</b></a></td>
-      <td>{desc}</td>
-      <td align="center"><nobr>{views} views</nobr></td>
-    </tr>
-"""
 
     new_section = f"""### 🔥 Most Visited (Last 14 Days)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/traffic-chart.svg?v={today}" alt="Most Popular Projects Traffic Chart" />
-</p>
-
-<table>
-  <thead>
-    <tr>
-      <th width="5%" align="center">Rank</th>
-      <th width="28%" align="left">Project</th>
-      <th width="53%" align="left">Description</th>
-      <th width="14%" align="center">Views</th>
-    </tr>
-  </thead>
-  <tbody>
-{rows}  </tbody>
-</table>
-
-> 📊 *Last updated: {today} UTC — Traffic data reflects the last 14 days via GitHub Insights.*"""
+</p>"""
 
     if os.path.exists("README.md"):
         with open("README.md", "r", encoding="utf-8") as f:

@@ -41,39 +41,6 @@ Just randomly designing gamification-based educational web applications, board g
 <p align="center">
   <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/traffic-chart.svg?v=20260920" alt="Most Popular Projects Traffic Chart" />
 </p>
-
-<table>
-  <thead>
-    <tr>
-      <th width="5%" align="center">Rank</th>
-      <th width="28%" align="left">Project</th>
-      <th width="53%" align="left">Description</th>
-      <th width="14%" align="center">Views</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">🥇</td>
-      <td><a href="https://mariofahmi.github.io/PyDuel-Battle-of-Algorithms/"><b>🐍 PyDuel: Battle of Algorithms</b></a></td>
-      <td>An educational Python and algorithms game — speed-duel against PyBot AI.</td>
-      <td align="center"><nobr>51 views</nobr></td>
-    </tr>
-    <tr>
-      <td align="center">🥈</td>
-      <td><a href="https://mariofahmi.github.io/CivicQUEST/"><b>🏛️ CivicQUEST</b></a></td>
-      <td>A PPKn education game featuring Survival Quiz, RPG Ethics Dilemma, and Boss Battle.</td>
-      <td align="center"><nobr>39 views</nobr></td>
-    </tr>
-    <tr>
-      <td align="center">🥉</td>
-      <td><a href="https://mariofahmi.github.io/Pahlawan-Cilik-Siaga-Lingkungan/"><b>🌱🦸 Pahlawan Cilik Siaga Lingkungan</b></a></td>
-      <td>An educational gamification web app for children&#39;s 3R awareness and waste management.</td>
-      <td align="center"><nobr>36 views</nobr></td>
-    </tr>
-  </tbody>
-</table>
-
-> 📊 *Last updated: 2026-09-19 UTC — Traffic data reflects the last 14 days via GitHub Insights.*
 ---
 
 ### 🎮 Game Projects
