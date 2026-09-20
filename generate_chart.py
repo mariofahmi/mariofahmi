@@ -221,7 +221,7 @@ def update_readme(top3):
         with open("README.md", "r", encoding="utf-8") as f:
             readme = f.read()
 
-        pattern = r"(### 🔥 Most Visited.*?)(?=\r?\n---)"
+        pattern = r"(### 🔥 Most Visited.*?)(?=\r?\n### 🎮 Game Projects)"
         new_readme = re.sub(pattern, new_section, readme, flags=re.DOTALL)
 
         if new_readme != readme:
