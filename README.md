@@ -40,6 +40,10 @@ Just randomly designing gamification-based educational web applications, board g
 
 ### 🔥 Most Visited (Last 14 Days)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/traffic-chart.svg?v=20260920" alt="Most Popular Projects Traffic Chart" />
+</p>
+
 <table>
   <thead>
     <tr>
@@ -167,10 +171,6 @@ Just randomly designing gamification-based educational web applications, board g
 ---
 
 ### 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/traffic-chart.svg" alt="Traffic Chart" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariofahmi&theme=radical" alt="Stats" height="150"/>

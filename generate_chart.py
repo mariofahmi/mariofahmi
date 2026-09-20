@@ -228,6 +228,10 @@ def update_readme(top3):
 
     new_section = f"""### 🔥 Most Visited (Last 14 Days)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/traffic-chart.svg?v={today}" alt="Most Popular Projects Traffic Chart" />
+</p>
+
 <table>
   <thead>
     <tr>
