@@ -153,10 +153,12 @@ Just randomly designing gamification-based educational web applications, board g
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariofahmi&label=Profile%20Views&color=E9711C&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/mariofahmi">
+    <img src="https://komarev.com/ghpvc/?username=mariofahmi&label=👁️%20Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
+  </a>
 </p>
 
-<p align="center"><sub>📈 Stats diperbarui otomatis setiap hari.</sub></p>
+<p align="center"><sub>📈 Visitor traffic updates dynamically in real-time · GitHub stats auto-synced daily</sub></p>
 
 ---
 
