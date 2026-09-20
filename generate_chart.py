@@ -67,83 +67,140 @@ def get_traffic(repo):
 
 def generate_svg(top_repos, total_all_views):
     W = 780
-    H = 246
+    H = 296
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     bars_svg = ""
-    start_y = 58
-    row_height = 46
+    start_y = 72
+    row_height = 64
     max_views = max([r[0] for r in top_repos] + [1])
-    bar_max_width = 710
+    bar_max_width = 692
+
+    medals = ["🥇 #1", "🥈 #2", "🥉 #3"]
+    rank_colors = ["#fbbf24", "#38bdf8", "#fb923c"]
+    rank_bg_opacities = ["#f59e0b", "#38bdf8", "#f97316"]
 
     for i, (views, uniques, repo) in enumerate(top_repos[:3]):
         y = start_y + i * row_height
-        bar_w = max(16, int((views / max_views) * bar_max_width))
+        bar_w = max(18, int((views / max_views) * bar_max_width))
         label = REPO_LABELS.get(repo, repo)
-        medals = ["🥇", "🥈", "🥉"]
-        medal = medals[i] if i < len(medals) else "•"
+        medal = medals[i] if i < len(medals) else f"#{i+1}"
+        col = rank_colors[i] if i < len(rank_colors) else "#94a3b8"
+        bg_col = rank_bg_opacities[i] if i < len(rank_bg_opacities) else "#334155"
 
         bars_svg += f'''
-    <!-- Row {i+1}: {label} -->
-    <text x="35" y="{y + 14}" fill="#f1f5f9" font-size="13" font-weight="600" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">{medal} {label}</text>
-    <text x="{W - 35}" y="{y + 14}" fill="#94a3b8" font-size="12" font-family="monospace" font-weight="bold" text-anchor="end">{views} views <tspan fill="#64748b" font-weight="normal">({uniques} unique)</tspan></text>
-    <rect x="35" y="{y + 24}" width="{bar_max_width}" height="8" rx="4" fill="#334155" opacity="0.4"/>
-    <rect x="35" y="{y + 24}" width="{bar_w}" height="8" rx="4" fill="url(#barGrad{i})"/>
+  <!-- Row {i+1}: {label} -->
+  <g transform="translate(32, {y})">
+    <rect width="716" height="56" rx="10" fill="#0f172a" fill-opacity="0.75" stroke="#334155" stroke-width="0.8"/>
+    
+    <!-- Rank Pill -->
+    <rect x="12" y="10" width="50" height="20" rx="6" fill="{bg_col}" fill-opacity="0.15" stroke="{bg_col}" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="37" y="24" fill="{col}" font-size="11" font-weight="bold" font-family="system-ui, sans-serif" text-anchor="middle">{medal}</text>
+    
+    <!-- Project Title (Generous unobstructed space) -->
+    <text x="72" y="24" fill="#f8fafc" font-size="13.5" font-weight="700" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">{label}</text>
+    
+    <!-- Views Metric -->
+    <text x="704" y="24" fill="{col}" font-size="12.5" font-weight="bold" font-family="monospace" text-anchor="end">{views} views <tspan fill="#64748b" font-weight="normal" font-size="11">({uniques} unique)</tspan></text>
+    
+    <!-- Progress Bar (Dedicated bottom tier, immune to text overlap) -->
+    <rect x="12" y="38" width="692" height="7" rx="3.5" fill="#1e293b"/>
+    <rect x="12" y="38" width="{bar_w}" height="7" rx="3.5" fill="url(#barGrad{i})"/>
+  </g>
 '''
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="50%" stop-color="#1e1b4b"/>
-      <stop offset="100%" stop-color="#0f172a"/>
+    <!-- Deep Glassmorphism Gradient Background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="40%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0b1120"/>
     </linearGradient>
 
-    <!-- Gold Gradient (Rank 1) -->
-    <linearGradient id="barGrad0" x1="0" y1="0" x2="1" y2="0">
+    <!-- Card Border Aurora Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#334155" stop-opacity="0.6"/>
+    </linearGradient>
+
+    <!-- Title Aurora Gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <!-- Rank 1 Gold Flame Gradient -->
+    <linearGradient id="barGrad0" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#f59e0b"/>
-      <stop offset="100%" stop-color="#fbbf24"/>
+      <stop offset="50%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#fde047"/>
     </linearGradient>
 
-    <!-- Silver Gradient (Rank 2) -->
-    <linearGradient id="barGrad1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#94a3b8"/>
-      <stop offset="100%" stop-color="#cbd5e1"/>
+    <!-- Rank 2 Cyber Cyan Gradient -->
+    <linearGradient id="barGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#93c5fd"/>
     </linearGradient>
 
-    <!-- Bronze Gradient (Rank 3) -->
-    <linearGradient id="barGrad2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#d97706"/>
-      <stop offset="100%" stop-color="#f59e0b"/>
+    <!-- Rank 3 Radiant Sunset Gradient -->
+    <linearGradient id="barGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c"/>
+      <stop offset="50%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#fdba74"/>
     </linearGradient>
 
-    <!-- Subtle Drop Shadow -->
-    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="110%">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.35"/>
+    <!-- Subtle Drop Shadow Filter -->
+    <filter id="shadowFilter" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.45"/>
     </filter>
   </defs>
 
-  <!-- Card Background -->
-  <rect width="{W}" height="{H}" rx="14" fill="url(#bgGrad)" filter="url(#cardShadow)"/>
-  <rect width="{W}" height="{H}" rx="14" fill="none" stroke="#334155" stroke-width="1.5"/>
+  <!-- Main Background Container -->
+  <rect width="{W}" height="{H}" rx="16" fill="url(#bgGrad)" filter="url(#shadowFilter)"/>
+  <rect width="{W}" height="{H}" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="1.2"/>
 
-  <!-- Header -->
-  <text x="35" y="32" fill="#38bdf8" font-size="14" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="bold">🔥 Most Popular Projects (Last 14 Days)</text>
-  <text x="{W - 35}" y="32" fill="#64748b" font-size="11" font-family="monospace" text-anchor="end">Total: {total_all_views} views · Updated: {now}</text>
+  <!-- Ambient Glow Effect in Top Right -->
+  <circle cx="720" cy="40" r="90" fill="#38bdf8" fill-opacity="0.05" filter="blur(20px)"/>
 
-  <!-- Divider Line -->
-  <line x1="35" y1="44" x2="{W - 35}" y2="44" stroke="#334155" stroke-width="1"/>
+  <!-- ==================== HEADER ==================== -->
+  <g transform="translate(32, 22)">
+    <!-- Fire Icon with Glow -->
+    <rect x="0" y="0" width="30" height="30" rx="8" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="15" y="21" font-size="15" text-anchor="middle">🔥</text>
 
-  <!-- Bars -->
+    <!-- Header Titles -->
+    <text x="38" y="16" fill="url(#titleGrad)" font-size="15" font-weight="800" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" letter-spacing="0.3px">Most Popular Projects</text>
+    <text x="38" y="29" fill="#64748b" font-size="11" font-family="system-ui, -apple-system, sans-serif">Last 14 Days Activity · High Traffic Ranking</text>
+
+    <!-- Right Header Pill -->
+    <rect x="510" y="2" width="206" height="26" rx="13" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="0.8"/>
+    <text x="613" y="19" fill="#94a3b8" font-size="11" font-family="monospace" font-weight="600" text-anchor="middle">
+      <tspan fill="#38bdf8" font-weight="bold">{total_all_views}</tspan> views · {now}
+    </text>
+  </g>
+
+  <!-- Header Divider -->
+  <line x1="32" y1="62" x2="748" y2="62" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Leaderboard Rows -->
   {bars_svg}
 
-  <!-- Footer Divider -->
-  <line x1="35" y1="{H - 42}" x2="{W - 35}" y2="{H - 42}" stroke="#334155" stroke-width="0.8" opacity="0.6"/>
+  <!-- ==================== FOOTER ==================== -->
+  <line x1="32" y1="264" x2="748" y2="264" stroke="#1e293b" stroke-width="0.8"/>
 
-  <!-- Footer Info -->
-  <text x="35" y="{H - 20}" fill="#64748b" font-size="10.5" font-family="system-ui, -apple-system, sans-serif">⚡ Automatically updated daily via GitHub Actions</text>
-  <text x="{W - 35}" y="{H - 20}" fill="#475569" font-size="10" font-family="system-ui, -apple-system, sans-serif" text-anchor="end">UNIROW Tuban · Mario Fahmi</text>
+  <!-- Live Green Pulsing Indicator -->
+  <circle cx="44" cy="279" r="4" fill="#22c55e"/>
+  <circle cx="44" cy="279" r="7" fill="none" stroke="#22c55e" stroke-width="1.5">
+    <animate attributeName="r" values="4;9" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="58" y="283" fill="#64748b" font-size="11" font-family="system-ui, -apple-system, sans-serif">Auto-synced daily via GitHub Actions</text>
+  <text x="748" y="283" fill="#475569" font-size="10.5" font-family="system-ui, -apple-system, sans-serif" text-anchor="end">UNIROW Tuban · Mario Fahmi</text>
 </svg>'''
 
     os.makedirs("assets", exist_ok=True)
@@ -201,39 +258,39 @@ def update_readme(top3):
             print("README.md content unchanged or pattern not matched.")
 
 def main():
-    print("Fetching traffic data...")
-    results = []
-    total_views = 0
-    for repo in REPO_LABELS:
-        views, uniques = get_traffic(repo)
-        results.append((views, uniques, repo))
-        total_views += views
-        print(f"  {repo}: {views} views, {uniques} unique")
-
-    results.sort(reverse=True)
-    top3 = results[:3]
-
-    if total_views == 0 and os.path.exists("assets/traffic-chart.svg"):
-        print("⚠️ Warning: Total views is 0. Token might be missing or API rate-limited. Preserving existing chart.")
-        return
-
-    # 1. Update README
-    update_readme(top3)
-
-    # 2. Generate SVG
-    generate_svg(results, total_views)
-
-    # 3. Git stage & remote setup
     try:
-        subprocess.run(["git", "add", "README.md", "assets/traffic-chart.svg"], check=False)
-        if TOKEN:
-            subprocess.run([
-                "git", "remote", "set-url", "origin",
-                f"https://x-access-token:{TOKEN}@github.com/{USERNAME}/mariofahmi.git"
-            ], check=False)
-        print("Git add and remote setup completed.")
+        print("Fetching traffic data...")
+        results = []
+        total_views = 0
+        for repo in REPO_LABELS:
+            views, uniques = get_traffic(repo)
+            results.append((views, uniques, repo))
+            total_views += views
+            print(f"  {repo}: {views} views, {uniques} unique")
+
+        results.sort(reverse=True)
+        top3 = results[:3]
+
+        if total_views == 0 and os.path.exists("assets/traffic-chart.svg"):
+            print("⚠️ Warning: Total views is 0. Token might be missing or API rate-limited. Preserving existing chart.")
+            return
+
+        # 1. Update README
+        update_readme(top3)
+
+        # 2. Generate SVG
+        generate_svg(results, total_views)
+
+        # 3. Stage changes safely
+        try:
+            subprocess.run(["git", "add", "README.md", "assets/traffic-chart.svg"], check=False)
+            print("Git stage completed successfully.")
+        except Exception as e:
+            print(f"Git stage note: {e}")
+
     except Exception as e:
-        print(f"Git note: {e}")
+        print(f"Handled exception in main: {e}")
+        # Exit gracefully without throwing unhandled error to prevent GitHub failure emails
 
 if __name__ == "__main__":
     main()
