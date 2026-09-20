@@ -172,7 +172,7 @@ Just randomly designing gamification-based educational web applications, board g
 <p>
 <img src="https://img.shields.io/badge/History_Quiz-059669?style=flat-square" alt="History Quiz" />
 </p>
-<p>An interactive educational encyclopedia &amp; quiz arena of the <b>82 Most Influential Figures in History</b>, featuring face-guessing game modes, audio effects, and validated digital certificates.</p>
+<p>The 82 World Figures game app is a modern educational web application that presents a visual and interactive encyclopedia of the <b>82 Most Influential Figures in History</b>.</p>
 <p align="left">
 <a href="https://mariofahmi.github.io/82-Tokoh-Dunia/" target="_blank"><img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/></a>
 &nbsp;
