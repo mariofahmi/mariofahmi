@@ -51,7 +51,7 @@
         fill="url(#rainbowGrad)"
         filter="url(#textGlow)">
     <textPath xlink:href="#typePath">
-      Data is meant to be read, not heard..!! !
+      DATA IS MEANT TO BE READ, NOT HEARD
     </textPath>
   </text>
 </svg>

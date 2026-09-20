@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/motto.svg?v=20260920" alt="Data is meant to be read, not heard..!! !" />
+  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/motto.svg?v=20260920b" alt="DATA IS MEANT TO BE READ, NOT HEARD" />
 </p>
 
 <p align="center">
