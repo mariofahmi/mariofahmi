@@ -166,6 +166,24 @@ Just randomly designing gamification-based educational web applications, board g
 <p align="right"><sub>🗓️ <code>2026-09-14</code></sub></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="left">👑🌍 <a href="https://mariofahmi.github.io/82-Tokoh-Dunia/">82 Tokoh Dunia</a></h3>
+<p>
+<img src="https://img.shields.io/badge/History_Quiz-059669?style=flat-square" alt="History Quiz" />
+<img src="https://img.shields.io/badge/Michael_H._Hart-d97706?style=flat-square" alt="Michael H. Hart" />
+</p>
+<p>An interactive educational encyclopedia &amp; quiz arena of the <b>82 Most Influential Figures in History</b> (Michael H. Hart version), featuring face-guessing game modes, audio effects, and validated digital certificates.</p>
+<p align="left">
+<a href="https://mariofahmi.github.io/82-Tokoh-Dunia/" target="_blank"><img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/></a>
+&nbsp;
+<a href="https://github.com/mariofahmi/82-Tokoh-Dunia" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+<p align="right"><sub>🗓️ <code>2026-09-20</code></sub></p>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
