@@ -34,9 +34,7 @@
 
 ### 👋 About Me
 
-Welcome to my academic & development space! I am a Lecturer & Researcher from Universitas PGRI Ronggolawe (UNIROW) Tuban.
-
-* Just randomly designing gamification-based educational web applications, board games, and interactive platforms.
+Just randomly designing gamification-based educational web applications, board games, and interactive platforms.
 
 ---
 
