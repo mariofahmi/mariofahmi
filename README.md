@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/motto.svg" alt="DATA DIBACA..BUKAN DI DENGAR..!!!" />
+  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/motto.svg?v=20260920" alt="Data is meant to be read, not heard..!! !" />
 </p>
 
 <p align="center">

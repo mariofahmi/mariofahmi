@@ -40,10 +40,10 @@
     </filter>
   </defs>
 
-  <!-- Mathematically & Visually Centered Text (Larger than h1 32px -> 36px font size) -->
+  <!-- Mathematically & Visually Centered Text -->
   <text font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif"
         font-weight="800"
-        font-size="36"
+        font-size="32"
         dominant-baseline="middle"
         x="50%"
         text-anchor="middle"
@@ -51,7 +51,7 @@
         fill="url(#rainbowGrad)"
         filter="url(#textGlow)">
     <textPath xlink:href="#typePath">
-      DATA DIBACA..BUKAN DI DENGAR..!!!
+      Data is meant to be read, not heard..!! !
     </textPath>
   </text>
 </svg>
