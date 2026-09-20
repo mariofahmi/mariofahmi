@@ -39,9 +39,8 @@ Just randomly designing gamification-based educational web applications, board g
 ### 🔥 Most Visited (Last 14 Days)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/traffic-chart.svg?v=20260920" alt="Most Popular Projects Traffic Chart" />
+  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/traffic-chart.svg?v=2026-09-20" alt="Most Popular Projects Traffic Chart" />
 </p>
-
 ---
 
 ### 🎮 Game Projects
