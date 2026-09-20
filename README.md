@@ -34,12 +34,9 @@
 
 ### 👋 About Me
 
-> *"Data is read, not heard..."*
+Welcome to my academic & development space! I am a Lecturer & Researcher from Universitas PGRI Ronggolawe (UNIROW) Tuban.
 
-Welcome to my academic & development space! I am a Lecturer & Researcher from Universitas PGRI Ronggolawe (UNIROW) Tuban
-
-* 💡 Interactive Technology created: Developing gamification-based educational web applications, board games, and interactive platforms.
-* 📍Based in: Tuban, East Java, Indonesia 🇮🇩
+* Just randomly designing gamification-based educational web applications, board games, and interactive platforms.
 
 ---
 
@@ -174,6 +171,10 @@ Welcome to my academic & development space! I am a Lecturer & Researcher from Un
 ### 📊 Contribution Activity
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/mariofahmi/mariofahmi/main/assets/traffic-chart.svg" alt="Traffic Chart" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariofahmi&theme=radical" alt="Stats" height="150"/>
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariofahmi&theme=radical" alt="Top Languages by Commit" height="150"/>
@@ -188,10 +189,6 @@ Welcome to my academic & development space! I am a Lecturer & Researcher from Un
 </p>
 
 <p align="center">
-
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariofahmi&label=Profile%20Views&color=E9711C&style=for-the-badge" alt="Profile views"/>
 </p>
 
@@ -203,12 +200,16 @@ Welcome to my academic & development space! I am a Lecturer & Researcher from Un
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
 <p align="center"><i>⭐ Thanks for visiting my profile!</i></p>
+
