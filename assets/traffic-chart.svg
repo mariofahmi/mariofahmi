@@ -68,7 +68,7 @@
     <!-- Right Header Pill -->
     <rect x="510" y="2" width="206" height="26" rx="13" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="0.8"/>
     <text x="613" y="19" fill="#94a3b8" font-size="11" font-family="monospace" font-weight="600" text-anchor="middle">
-      <tspan fill="#38bdf8" font-weight="bold">186</tspan> views · 2026-09-20 05:42 UTC
+      <tspan fill="#38bdf8" font-weight="bold">216</tspan> views · 2026-09-21 05:53 UTC
     </text>
   </g>
 
@@ -77,7 +77,7 @@
 
   <!-- Leaderboard Rows -->
   
-  <!-- Row 1: 🐍 PyDuel: Battle of Algorithms -->
+  <!-- Row 1: 💰 NetWorth Anda -->
   <g transform="translate(32, 72)">
     <rect width="716" height="56" rx="10" fill="#0f172a" fill-opacity="0.75" stroke="#334155" stroke-width="0.8"/>
     
@@ -86,17 +86,17 @@
     <text x="37" y="24" fill="#fbbf24" font-size="11" font-weight="bold" font-family="system-ui, sans-serif" text-anchor="middle">🥇 #1</text>
     
     <!-- Project Title (Generous unobstructed space) -->
-    <text x="72" y="24" fill="#f8fafc" font-size="13.5" font-weight="700" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">🐍 PyDuel: Battle of Algorithms</text>
+    <text x="72" y="24" fill="#f8fafc" font-size="13.5" font-weight="700" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">💰 NetWorth Anda</text>
     
     <!-- Views Metric -->
-    <text x="704" y="24" fill="#fbbf24" font-size="12.5" font-weight="bold" font-family="monospace" text-anchor="end">51 views <tspan fill="#64748b" font-weight="normal" font-size="11">(1 unique)</tspan></text>
+    <text x="704" y="24" fill="#fbbf24" font-size="12.5" font-weight="bold" font-family="monospace" text-anchor="end">62 views <tspan fill="#64748b" font-weight="normal" font-size="11">(1 unique)</tspan></text>
     
     <!-- Progress Bar (Dedicated bottom tier, immune to text overlap) -->
     <rect x="12" y="38" width="692" height="7" rx="3.5" fill="#1e293b"/>
     <rect x="12" y="38" width="692" height="7" rx="3.5" fill="url(#barGrad0)"/>
   </g>
 
-  <!-- Row 2: 🏛️ CivicQUEST -->
+  <!-- Row 2: 🔬 Metode Penelitian Sosial -->
   <g transform="translate(32, 136)">
     <rect width="716" height="56" rx="10" fill="#0f172a" fill-opacity="0.75" stroke="#334155" stroke-width="0.8"/>
     
@@ -105,17 +105,17 @@
     <text x="37" y="24" fill="#38bdf8" font-size="11" font-weight="bold" font-family="system-ui, sans-serif" text-anchor="middle">🥈 #2</text>
     
     <!-- Project Title (Generous unobstructed space) -->
-    <text x="72" y="24" fill="#f8fafc" font-size="13.5" font-weight="700" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">🏛️ CivicQUEST</text>
+    <text x="72" y="24" fill="#f8fafc" font-size="13.5" font-weight="700" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">🔬 Metode Penelitian Sosial</text>
     
     <!-- Views Metric -->
-    <text x="704" y="24" fill="#38bdf8" font-size="12.5" font-weight="bold" font-family="monospace" text-anchor="end">39 views <tspan fill="#64748b" font-weight="normal" font-size="11">(1 unique)</tspan></text>
+    <text x="704" y="24" fill="#38bdf8" font-size="12.5" font-weight="bold" font-family="monospace" text-anchor="end">44 views <tspan fill="#64748b" font-weight="normal" font-size="11">(1 unique)</tspan></text>
     
     <!-- Progress Bar (Dedicated bottom tier, immune to text overlap) -->
     <rect x="12" y="38" width="692" height="7" rx="3.5" fill="#1e293b"/>
-    <rect x="12" y="38" width="529" height="7" rx="3.5" fill="url(#barGrad1)"/>
+    <rect x="12" y="38" width="491" height="7" rx="3.5" fill="url(#barGrad1)"/>
   </g>
 
-  <!-- Row 3: 🌱🦸 Pahlawan Cilik Siaga Lingkungan -->
+  <!-- Row 3: 🏛️ CivicQUEST -->
   <g transform="translate(32, 200)">
     <rect width="716" height="56" rx="10" fill="#0f172a" fill-opacity="0.75" stroke="#334155" stroke-width="0.8"/>
     
@@ -124,14 +124,14 @@
     <text x="37" y="24" fill="#fb923c" font-size="11" font-weight="bold" font-family="system-ui, sans-serif" text-anchor="middle">🥉 #3</text>
     
     <!-- Project Title (Generous unobstructed space) -->
-    <text x="72" y="24" fill="#f8fafc" font-size="13.5" font-weight="700" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">🌱🦸 Pahlawan Cilik Siaga Lingkungan</text>
+    <text x="72" y="24" fill="#f8fafc" font-size="13.5" font-weight="700" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif">🏛️ CivicQUEST</text>
     
     <!-- Views Metric -->
-    <text x="704" y="24" fill="#fb923c" font-size="12.5" font-weight="bold" font-family="monospace" text-anchor="end">36 views <tspan fill="#64748b" font-weight="normal" font-size="11">(1 unique)</tspan></text>
+    <text x="704" y="24" fill="#fb923c" font-size="12.5" font-weight="bold" font-family="monospace" text-anchor="end">39 views <tspan fill="#64748b" font-weight="normal" font-size="11">(1 unique)</tspan></text>
     
     <!-- Progress Bar (Dedicated bottom tier, immune to text overlap) -->
     <rect x="12" y="38" width="692" height="7" rx="3.5" fill="#1e293b"/>
-    <rect x="12" y="38" width="488" height="7" rx="3.5" fill="url(#barGrad2)"/>
+    <rect x="12" y="38" width="435" height="7" rx="3.5" fill="url(#barGrad2)"/>
   </g>
 
 
