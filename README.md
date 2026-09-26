@@ -181,18 +181,6 @@ Just randomly designing gamification-based educational web applications, board g
 <p align="right"><sub>🗓️ <code>2026-09-20</code></sub></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="left">📝 <a href="https://mariofahmi.github.io/skilluts/">OBE Midterm Exam (UTS) Skill</a></h3>
-<p>
-<img src="https://img.shields.io/badge/Antigravity_Skill-6366f1?style=flat-square" alt="Antigravity Skill" />
-<img src="https://img.shields.io/badge/UNIROW_FKIP-dc2626?style=flat-square" alt="UNIROW FKIP" />
-<img src="https://img.shields.io/badge/Bloom_Taxonomy-8b5cf6?style=flat-square" alt="Bloom Taxonomy" />
-<img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
-</p>
-<p>Official AI agent skill for generating <b>Midterm Exam (UTS) question sheets adhering to UNIROW FKIP master templates</b>, preserving floating logos, official headers, and synthesizing Bloom-level assessment questions directly from OBE RPS.</p>
-<p align="left">
-<a href="https://github.com/mariofahmi/skilluts" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-<p align="right"><sub>🗓️ <code>2026-09-26</code></sub></p>
 </td>
 </tr>
 </table>
@@ -326,8 +314,10 @@ Just randomly designing gamification-based educational web applications, board g
 <img src="https://img.shields.io/badge/Bloom_Taxonomy-8b5cf6?style=flat-square" alt="Bloom Taxonomy" />
 <img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
 </p>
-<p>Official AI agent skill for generating <b>Midterm Exam (UTS) question sheets adhering to UNIROW FKIP master templates</b>, preserving floating logos, official headers, and synthesizing Bloom-level assessment questions directly from OBE RPS.</p>
+<p>Official skill and automation agent in Google Antigravity &amp; Agentic AI for drafting and publishing Midterm Exam (UTS) papers.</p>
 <p align="left">
+<a href="https://mariofahmi.github.io/skilluts/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
+&nbsp;
 <a href="https://github.com/mariofahmi/skilluts" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <p align="right"><sub>🗓️ <code>2026-09-26</code></sub></p>
