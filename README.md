@@ -190,8 +190,6 @@ Just randomly designing gamification-based educational web applications, board g
 </p>
 <p>Official AI agent skill for generating <b>Midterm Exam (UTS) question sheets adhering to UNIROW FKIP master templates</b>, preserving floating logos, official headers, and synthesizing Bloom-level assessment questions directly from OBE RPS.</p>
 <p align="left">
-<a href="https://mariofahmi.github.io/skilluts/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
-&nbsp;
 <a href="https://github.com/mariofahmi/skilluts" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <p align="right"><sub>🗓️ <code>2026-09-26</code></sub></p>
@@ -330,8 +328,6 @@ Just randomly designing gamification-based educational web applications, board g
 </p>
 <p>Official AI agent skill for generating <b>Midterm Exam (UTS) question sheets adhering to UNIROW FKIP master templates</b>, preserving floating logos, official headers, and synthesizing Bloom-level assessment questions directly from OBE RPS.</p>
 <p align="left">
-<a href="https://mariofahmi.github.io/skilluts/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
-&nbsp;
 <a href="https://github.com/mariofahmi/skilluts" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <p align="right"><sub>🗓️ <code>2026-09-26</code></sub></p>
