@@ -263,30 +263,33 @@ Just randomly designing gamification-based educational web applications, board g
 <p>
 <img src="https://img.shields.io/badge/Antigravity_Skill-6366f1?style=flat-square" alt="Antigravity Skill" />
 <img src="https://img.shields.io/badge/ISO_Quality-10b981?style=flat-square" alt="ISO Quality" />
+<img src="https://img.shields.io/badge/WYSIWYG_Simulator-0ea5e9?style=flat-square" alt="WYSIWYG Simulator" />
 <img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
 </p>
-<p>Automated generator for official <b>Course Contracts adhering to ISO quality assurance and OBE 2026 standards</b>, engineered with high-precision Word XML table layouts (row split prevention &amp; repeating headers) across 63 university courses.</p>
+<p>Automated generator and live WYSIWYG dual-panel simulator for <b>Course Contracts adhering to ISO quality assurance and OBE 2026 standards</b>, engineered with high-precision Word XML table layouts, 100% assessment weight validation, Markdown exporter, and clean 2-page A4 PDF export across 63 university courses.</p>
 <p align="left">
 <a href="https://mariofahmi.github.io/skillISO/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
 &nbsp;
 <a href="https://github.com/mariofahmi/skillISO" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-<p align="right"><sub>🗓️ <code>2026-09-24</code></sub></p>
+<p align="right"><sub>🗓️ <code>2026-09-26</code></sub></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="left">📑 <a href="https://mariofahmi.github.io/skillISORPS/">UNIROW OBE 2026 RPS Skill</a></h3>
+<h3 align="left">📑 <a href="https://mariofahmi.github.io/skillISORPS/">OBE 2026 Semester Learning Plan (RPS) Skill</a></h3>
 <p>
 <img src="https://img.shields.io/badge/Antigravity_Skill-6366f1?style=flat-square" alt="Antigravity Skill" />
-<img src="https://img.shields.io/badge/A4_Landscape-0ea5e9?style=flat-square" alt="A4 Landscape" />
+<img src="https://img.shields.io/badge/ISO_Quality-10b981?style=flat-square" alt="ISO Quality" />
 <img src="https://img.shields.io/badge/Bloom_Taxonomy-8b5cf6?style=flat-square" alt="Bloom Taxonomy" />
+<img src="https://img.shields.io/badge/WYSIWYG_Simulator-0ea5e9?style=flat-square" alt="WYSIWYG Simulator" />
+<img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
 </p>
-<p>Google Antigravity AI module for generating 100% precision <b>Semester Learning Plans (RPS)</b> in A4 Landscape, featuring 4 standardized OBE 2026 tables, Bloom's Taxonomy operational verbs, CPL-to-SubCPMK correlation matrices, and holistic rubrics.</p>
+<p>Google Antigravity AI module and interactive dual-panel WYSIWYG simulator for generating <b>Semester Learning Plans (RPS) Kurikulum OBE 2026</b>, featuring a live catalog of 63 university courses, Bloom's Taxonomy operational verbs, CPL-to-SubCPMK correlation matrices, 16-week syllabi, holistic rubrics, and clean 2-page A4 PDF export.</p>
 <p align="left">
 <a href="https://mariofahmi.github.io/skillISORPS/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
 &nbsp;
 <a href="https://github.com/mariofahmi/skillISORPS" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-<p align="right"><sub>🗓️ <code>2026-09-24</code></sub></p>
+<p align="right"><sub>🗓️ <code>2026-09-26</code></sub></p>
 </td>
 </tr>
 <tr>
@@ -295,10 +298,10 @@ Just randomly designing gamification-based educational web applications, board g
 <p>
 <img src="https://img.shields.io/badge/Antigravity_Skill-6366f1?style=flat-square" alt="Antigravity Skill" />
 <img src="https://img.shields.io/badge/4_Bands_Rubric-10b981?style=flat-square" alt="4 Bands Rubric" />
-<img src="https://img.shields.io/badge/UNIROW_Grades-0ea5e9?style=flat-square" alt="UNIROW Grades" />
+<img src="https://img.shields.io/badge/Grading_Scale_7-0ea5e9?style=flat-square" alt="Grading Scale 7" />
 <img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
 </p>
-<p>Automated AI generator for official <b>4-Band Analytic Assessment Rubrics (Sangat Baik, Baik, Cukup, Kurang) &amp; UNIROW 7-scale grading guidelines</b>, directly synced with OBE RPS documents in printable Word (.docx) &amp; Markdown (.md).</p>
+<p>Automated AI generator for official <b>4-Band Analytic Assessment Rubrics (Sangat Baik, Baik, Cukup, Kurang) &amp; 7-scale grading guidelines</b>, directly synced with OBE RPS documents in printable Word (.docx) &amp; Markdown (.md).</p>
 <p align="left">
 <a href="https://mariofahmi.github.io/Skillrublikpenilaian/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
 &nbsp;
@@ -310,11 +313,11 @@ Just randomly designing gamification-based educational web applications, board g
 <h3 align="left">📝 <a href="https://mariofahmi.github.io/skilluts/">OBE Midterm Exam (UTS) Skill</a></h3>
 <p>
 <img src="https://img.shields.io/badge/Antigravity_Skill-6366f1?style=flat-square" alt="Antigravity Skill" />
-<img src="https://img.shields.io/badge/UNIROW_FKIP-dc2626?style=flat-square" alt="UNIROW FKIP" />
 <img src="https://img.shields.io/badge/Bloom_Taxonomy-8b5cf6?style=flat-square" alt="Bloom Taxonomy" />
+<img src="https://img.shields.io/badge/Live_Simulator-0ea5e9?style=flat-square" alt="Live Simulator" />
 <img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
 </p>
-<p>Official skill and automation agent in Google Antigravity &amp; Agentic AI for drafting and publishing Midterm Exam (UTS) papers.</p>
+<p>Official skill and interactive dual-panel simulator for drafting and publishing <b>Midterm Exam (UTS) papers</b>, with customizable questions based on Bloom's Taxonomy (C2–C6), catalog of 61 courses, real-time WYSIWYG preview, and clean 1-page A4 PDF export.</p>
 <p align="left">
 <a href="https://mariofahmi.github.io/skilluts/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
 &nbsp;
@@ -328,11 +331,11 @@ Just randomly designing gamification-based educational web applications, board g
 <h3 align="left">🎓 <a href="https://mariofahmi.github.io/skillUAS/">OBE Final Exam (UAS) Skill</a></h3>
 <p>
 <img src="https://img.shields.io/badge/Antigravity_Skill-6366f1?style=flat-square" alt="Antigravity Skill" />
-<img src="https://img.shields.io/badge/UNIROW_FKIP-dc2626?style=flat-square" alt="UNIROW FKIP" />
 <img src="https://img.shields.io/badge/Bloom_Taxonomy-8b5cf6?style=flat-square" alt="Bloom Taxonomy" />
+<img src="https://img.shields.io/badge/Live_Simulator-0ea5e9?style=flat-square" alt="Live Simulator" />
 <img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
 </p>
-<p>Official skill and automation agent in Google Antigravity &amp; Agentic AI for drafting and publishing Final Exam (UAS) papers across meetings 1 to 16.</p>
+<p>Official skill and interactive dual-panel simulator for drafting and publishing <b>Final Exam (UAS) papers</b>, covering meetings 1 to 16 with higher-order cognitive evaluation (C3–C6), full course catalog, real-time WYSIWYG preview, and clean 1-page A4 PDF export.</p>
 <p align="left">
 <a href="https://mariofahmi.github.io/skillUAS/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
 &nbsp;
@@ -341,6 +344,17 @@ Just randomly designing gamification-based educational web applications, board g
 <p align="right"><sub>🗓️ <code>2026-09-26</code></sub></p>
 </td>
 <td width="50%" valign="top">
+<h3 align="left">🌐 <a href="https://github.com/mariofahmi?tab=repositories&q=skill">All OBE 2026 AI Skills</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Full_Ecosystem-6366f1?style=flat-square" alt="Full Ecosystem" />
+<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square" alt="Google Antigravity" />
+<img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
+</p>
+<p>Integrated suite of Google Antigravity &amp; Agentic AI skills automating the entire lifecycle of OBE 2026 curriculum documents: <b>RPS, Course Contracts, Assessment Rubrics, Midterm Exams (UTS), and Final Exams (UAS)</b>.</p>
+<p align="left">
+<a href="https://github.com/mariofahmi?tab=repositories&q=skill" target="_blank"><img src="https://img.shields.io/badge/🔍_Explore_All_Skills-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Skills"/></a>
+</p>
+<p align="right"><sub>🗓️ <code>2026-09-26</code></sub></p>
 </td>
 </tr>
 </table>
