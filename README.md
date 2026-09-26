@@ -254,18 +254,18 @@ Just randomly designing gamification-based educational web applications, board g
 
 ---
 
-### ⚡ SKILL
+### ⚡ Agentic AI Skills
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3 align="left">📋 <a href="https://mariofahmi.github.io/skillISO/">Skill Kontrak Perkuliahan OBE</a></h3>
+<h3 align="left">📋 <a href="https://mariofahmi.github.io/skillISO/">OBE Course Contract Skill</a></h3>
 <p>
 <img src="https://img.shields.io/badge/Antigravity_Skill-6366f1?style=flat-square" alt="Antigravity Skill" />
-<img src="https://img.shields.io/badge/ISO_Mutu-10b981?style=flat-square" alt="ISO Mutu" />
+<img src="https://img.shields.io/badge/ISO_Quality-10b981?style=flat-square" alt="ISO Quality" />
 <img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
 </p>
-<p>Generator otomatis dokumen <b>Kontrak Perkuliahan resmi berstandar mutu ISO dan kurikulum OBE 2026</b> dengan penataan tabel Word XML presisi tinggi (anti-split baris &amp; repeating headers) untuk 63 mata kuliah.</p>
+<p>Automated generator for official <b>Course Contracts adhering to ISO quality assurance and OBE 2026 standards</b>, engineered with high-precision Word XML table layouts (row split prevention &amp; repeating headers) across 63 university courses.</p>
 <p align="left">
 <a href="https://mariofahmi.github.io/skillISO/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
 &nbsp;
@@ -274,19 +274,39 @@ Just randomly designing gamification-based educational web applications, board g
 <p align="right"><sub>🗓️ <code>2026-09-24</code></sub></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="left">📑 <a href="https://mariofahmi.github.io/skillISORPS/">Skill RPS UNIROW OBE 2026</a></h3>
+<h3 align="left">📑 <a href="https://mariofahmi.github.io/skillISORPS/">UNIROW OBE 2026 RPS Skill</a></h3>
 <p>
 <img src="https://img.shields.io/badge/Antigravity_Skill-6366f1?style=flat-square" alt="Antigravity Skill" />
 <img src="https://img.shields.io/badge/A4_Landscape-0ea5e9?style=flat-square" alt="A4 Landscape" />
 <img src="https://img.shields.io/badge/Bloom_Taxonomy-8b5cf6?style=flat-square" alt="Bloom Taxonomy" />
 </p>
-<p>Modul AI Google Antigravity untuk menyusun dokumen <b>Rencana Pembelajaran Semester (RPS)</b> 100% presisi A4 Landscape, 4 tabel baku kurikulum OBE 2026, label Taksonomi Bloom, matriks korelasi CPL-SubCPMK, dan rubrik holistik.</p>
+<p>Google Antigravity AI module for generating 100% precision <b>Semester Learning Plans (RPS)</b> in A4 Landscape, featuring 4 standardized OBE 2026 tables, Bloom's Taxonomy operational verbs, CPL-to-SubCPMK correlation matrices, and holistic rubrics.</p>
 <p align="left">
 <a href="https://mariofahmi.github.io/skillISORPS/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
 &nbsp;
 <a href="https://github.com/mariofahmi/skillISORPS" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 <p align="right"><sub>🗓️ <code>2026-09-24</code></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="left">⚖️ <a href="https://mariofahmi.github.io/Skillrublikpenilaian/">OBE Assessment Rubric Skill</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Antigravity_Skill-6366f1?style=flat-square" alt="Antigravity Skill" />
+<img src="https://img.shields.io/badge/4_Bands_Rubric-10b981?style=flat-square" alt="4 Bands Rubric" />
+<img src="https://img.shields.io/badge/UNIROW_Grades-0ea5e9?style=flat-square" alt="UNIROW Grades" />
+<img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
+</p>
+<p>Automated AI generator for official <b>4-Band Analytic Assessment Rubrics (Sangat Baik, Baik, Cukup, Kurang) &amp; UNIROW 7-scale grading guidelines</b>, directly synced with OBE RPS documents in printable Word (.docx) &amp; Markdown (.md).</p>
+<p align="left">
+<a href="https://mariofahmi.github.io/Skillrublikpenilaian/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
+&nbsp;
+<a href="https://github.com/mariofahmi/Skillrublikpenilaian" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+<p align="right"><sub>🗓️ <code>2026-09-26</code></sub></p>
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
