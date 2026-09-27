@@ -191,6 +191,24 @@ Just randomly designing gamification-based educational web applications, board g
 
 <table width="100%">
 <tr>
+<td colspan="2" width="100%" valign="top">
+<h3 align="left">⚒️ <a href="https://mariofahmi.github.io/mariofahmi-edu-skill-forge/">Edu Skill Forge (OBE 2026 AI Suite)</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Monorepo-6366f1?style=flat-square" alt="Monorepo" />
+<img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
+<img src="https://img.shields.io/badge/6_AI_Skills-10b981?style=flat-square" alt="6 AI Skills" />
+<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square" alt="Google Antigravity" />
+</p>
+<p>Unified monorepo workspace &amp; all-in-one portal consolidating <b>6 OBE 2026 AI skills and simulators</b> for higher education: Course Contracts, RPS, Rubrics, Midterm Exams (UTS), Final Exams (UAS), and Lecture Journals.</p>
+<p align="left">
+<a href="https://mariofahmi.github.io/mariofahmi-edu-skill-forge/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
+&nbsp;
+<a href="https://github.com/mariofahmi/mariofahmi-edu-skill-forge" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+<p align="right"><sub>🗓️ <code>2026-09-27</code></sub></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3 align="left">🛰️ <a href="https://mariofahmi.github.io/webgis-pesisir-tuban/">WebGIS Pesisir Tuban</a></h3>
 <p>
