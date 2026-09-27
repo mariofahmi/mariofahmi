@@ -351,7 +351,7 @@ Just randomly designing gamification-based educational web applications, board g
 <img src="https://img.shields.io/badge/WYSIWYG_Simulator-0ea5e9?style=flat-square" alt="WYSIWYG Simulator" />
 <img src="https://img.shields.io/badge/OBE_2026-ec4899?style=flat-square" alt="OBE 2026" />
 </p>
-<p>Official Google Antigravity AI skill and live dual-panel WYSIWYG simulator for generating <b>16-Meeting Lecture Journals (Jurnal Perkuliahan)</b> across 61 courses, featuring automatic RPS syllabus extraction, official UNIROW FKIP letterhead, laser-aligned identity metadata, clean 1-page A4 PDF print, and native Word (.docx) export.</p>
+<p>Official skill and automation agent in Google Antigravity &amp; Agentic AI for generating, previewing, and exporting official Jurnal Perkuliahan.</p>
 <p align="left">
 <a href="https://mariofahmi.github.io/skilljurnalperkuliahan/" target="_blank"><img src="https://img.shields.io/badge/🚀_Launch_Portal-4F46E5?style=for-the-badge&logoColor=white" alt="Launch Portal"/></a>
 &nbsp;
