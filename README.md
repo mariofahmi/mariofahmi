@@ -181,6 +181,19 @@ Just randomly designing gamification-based educational web applications, board g
 <p align="right"><sub>🗓️ <code>2026-09-20</code></sub></p>
 </td>
 <td width="50%" valign="top">
+<h3 align="left">🧩 <a href="https://mariofahmi.github.io/TTS-VCT-PPKN/docs/">TTS VCT PPKn</a></h3>
+<p>
+<img src="https://img.shields.io/badge/PPKn_Game-0284c7?style=flat-square" alt="PPKn Game" />
+<img src="https://img.shields.io/badge/VCT_Approach-06b6d4?style=flat-square" alt="VCT Approach" />
+<img src="https://img.shields.io/badge/Crossword_TTS-3b82f6?style=flat-square" alt="Crossword TTS" />
+</p>
+<p>An interactive web-based learning media application (Single Viewport Web Application) that integrates a crossword puzzle (TTS) game with the Value Clarification Technique (VCT) learning model for the Pancasila and Civic Education (PPKn) course in higher education.</p>
+<p align="left">
+<a href="https://mariofahmi.github.io/TTS-VCT-PPKN/docs/" target="_blank"><img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/></a>
+&nbsp;
+<a href="https://github.com/mariofahmi/TTS-VCT-PPKN" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+<p align="right"><sub>🗓️ <code>2026-10-03</code></sub></p>
 </td>
 </tr>
 </table>
