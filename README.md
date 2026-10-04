@@ -196,6 +196,24 @@ Just randomly designing gamification-based educational web applications, board g
 <p align="right"><sub>🗓️ <code>2026-10-03</code></sub></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+<h3 align="left">🧩🏫 <a href="https://mariofahmi.github.io/puzzlepuzle/">Puzzle Puzzle</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Picture_Puzzle-059669?style=flat-square" alt="Picture Puzzle" />
+<img src="https://img.shields.io/badge/Green_Campus-10b981?style=flat-square" alt="Green Campus" />
+<img src="https://img.shields.io/badge/Leaderboard-0ea5e9?style=flat-square" alt="Leaderboard" />
+<img src="https://img.shields.io/badge/Audio_Synthesizer-8b5cf6?style=flat-square" alt="Audio Synthesizer" />
+</p>
+<p>Interactive picture puzzle game, designed with a modern green-campus aesthetic, responsive, and rich in educational features.</p>
+<p align="left">
+<a href="https://mariofahmi.github.io/puzzlepuzle/" target="_blank"><img src="https://img.shields.io/badge/▶_Play_Online-10B981?style=for-the-badge&logoColor=white" alt="Play Online"/></a>
+&nbsp;
+<a href="https://github.com/mariofahmi/puzzlepuzle" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+<p align="right"><sub>🗓️ <code>2026-10-04</code></sub></p>
+</td>
+</tr>
 </table>
 
 ---
